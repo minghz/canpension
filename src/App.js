@@ -1,19 +1,17 @@
 import React from 'react';
+import 'antd/dist/antd.css';
 import './App.css';
-import {Row, Col} from "antd";
+import { Row, Col } from "antd";
+import Variables from "./Variables";
+
 
 function App() {
   return (
-    <div>
-      <Row>
-        <Col>Years lived in Canada</Col>
-        <Col></Col>
-      </Row>
-      <Row>
-        <Col>Annual Profit (excluding OAS)</Col>
-        <Col></Col>
-      </Row>
-    </div>
+    <Row>
+      <Col span={6}>
+        <Variables />
+      </Col>
+    </Row>
   );
 }
 
