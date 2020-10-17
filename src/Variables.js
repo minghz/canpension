@@ -27,7 +27,7 @@ function Variables(props) {
         </Col>
       </Row>
       <Row>
-        <Col span={16}>Annual Profit (excluding OAS)</Col>
+        <Col span={16}>Annual Income (excluding OAS)</Col>
         <Col span={8}>
           <InputNumber
             size="large"
