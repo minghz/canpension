@@ -10,7 +10,7 @@ import Calculations from "./Calculations";
 
 const constants = {
   maxOas: 61414,
-  maxGis: 91729
+  maxGis: 91729,
 }
 
 class App extends Component {
@@ -25,13 +25,19 @@ class App extends Component {
     this.state = {
       eligible: true, // TODO: false by default
       constants: constants,
-      variables: variables
+      variables: variables,
+
+      gisQualified: true
     }
 
   }
 
   handleVariableChange = (newVariables) => {
     this.setState({variables: newVariables});
+  }
+
+  handleGisQualification = (isQualified) => {
+    this.setState({gisQualified: isQualified})
   }
 
   render() {
@@ -46,7 +52,8 @@ class App extends Component {
           <Col span={7}>
             <Variables
               data={this.state.variables}
-              onChange={this.handleVariableChange} />
+              onChange={this.handleVariableChange}
+              onQualifyGis={this.handleGisQualification}/>
           </Col>
           <Col span={7}>
             <Constants data={this.state.constants} />
@@ -54,7 +61,8 @@ class App extends Component {
           <Col span={10}>
             <Calculations
               constants={this.state.constants}
-              variables={this.state.variables} />
+              variables={this.state.variables}
+              gisQualified={this.state.gisQualified} />
           </Col>
         </Row>
         <Row>

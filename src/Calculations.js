@@ -8,7 +8,30 @@ import { fmtCents } from "./formatters/money.js";
 function Calculations(props) {
 
   const receivableOas = () => (props.variables.yearsInCanada/40) * props.constants.maxOas
-  const receivableGis = () => (props.constants.maxGis - props.variables.annualIncome/12/2)
+  const receivableGis = () =>
+    props.gisQualified ? (props.constants.maxGis - props.variables.annualIncome/12/2) : 0
+
+  const receivableGisRow = () => {
+    if(props.gisQualified) {
+      return(
+        <Row>
+          <Col span={8}>Receivable GIS</Col>
+          <Col span={8}>{fmtCents(props.constants.maxGis)} - {fmtCents(props.variables.annualIncome)} * 1yr/12mo/2</Col>
+          <Col span={1}>=</Col>
+          <Col span={7}>{fmtCents(receivableGis())} /mo</Col>
+        </Row>
+      )
+    } else {
+      return(
+        <Row>
+          <Col span={8}>Receivable GIS</Col>
+          <Col span={8}>Income is, or exceeded $18,624.00</Col>
+          <Col span={1}>=</Col>
+          <Col span={7}>{fmtCents(0)} /mo</Col>
+        </Row>
+      )
+    }
+  }
 
   return(
     <Card title="Calculations">
@@ -18,12 +41,7 @@ function Calculations(props) {
         <Col span={1}>=</Col>
         <Col span={7}>{fmtCents(receivableOas())} /mo</Col>
       </Row>
-      <Row>
-        <Col span={8}>Receivable GIS</Col>
-        <Col span={8}>{fmtCents(props.constants.maxGis)} - {fmtCents(props.variables.annualIncome)} * 1yr/12mo/2</Col>
-        <Col span={1}>=</Col>
-        <Col span={7}>{fmtCents(receivableGis())} /mo</Col>
-      </Row>
+      {receivableGisRow()}
       <Row>
         <Col span={8}></Col>
         <Col span={8} className="textAlignRight bold">Total</Col>

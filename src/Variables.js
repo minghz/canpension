@@ -27,6 +27,11 @@ class Variables extends Component {
   }
 
   onIncomeChange = (newIncome) => {
+    // If your yearly income, not including your OAS pension, exceeds $18,623.99,
+    // you do not qualify for the Guaranteed Income Supplement.
+    if(newIncome >= 1862400) { this.props.onQualifyGis(false) }
+    else { this.props.onQualifyGis(true) }
+
     this.props.onChange(
       {
         yearsInCanada: this.props.data.yearsInCanada,
