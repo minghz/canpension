@@ -16,7 +16,15 @@ import './css/App.css';
 class Variables extends Component {
 
   onYearsChange = (newYears) => {
-    if(newYears > 40) { return } // ignore anything larger than 40
+    if(newYears > 40) {
+      this.props.onChange(
+        {
+          yearsInCanada: 40,
+          annualIncome: this.props.data.annualIncome
+        }
+      )
+      return // ignore anything larger than 40
+    }
 
     this.props.onChange(
       {
