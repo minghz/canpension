@@ -4,70 +4,28 @@ import './css/App.css';
 import { Row, Col } from "antd";
 import Prerequesites from "./Prerequesites";
 import References from "./References";
-import Variables from "./Variables";
-import Constants from "./Constants";
-import Calculations from "./Calculations";
 
-const constants = {
-  maxOas: 61414,
-  maxGis: 91729,
-}
+import SingleSituation from "./SingleSituation";
+import CoupleSituation from "./CoupleSituation";
+
 
 class App extends Component {
   constructor(props) {
     super(props);
-
-    let variables = {
-      yearsInCanada: 40,
-      annualIncome: 0
-    }
-
-    this.state = {
-      eligible: true, // TODO: false by default
-      constants: constants,
-      variables: variables,
-
-      gisQualified: true
-    }
-
-  }
-
-  handleVariableChange = (newVariables) => {
-    this.setState({variables: newVariables});
-  }
-
-  handleGisQualification = (isQualified) => {
-    this.setState({gisQualified: isQualified})
   }
 
   render() {
     return (
-      <>
+      <div className="mainContainer">
         <Row>
-          <Col span={8}><Prerequesites /></Col>
-          <Col span={8}><References /></Col>
+          <Col span={12}><Prerequesites /></Col>
+          <Col span={12}><References /></Col>
         </Row>
-        <h1>If you are a single, widowed or divorced pensioner</h1>
-        <Row>
-          <Col span={7}>
-            <Variables
-              data={this.state.variables}
-              onChange={this.handleVariableChange}
-              onQualifyGis={this.handleGisQualification}/>
-          </Col>
-          <Col span={7}>
-            <Constants data={this.state.constants} />
-          </Col>
-          <Col span={10}>
-            <Calculations
-              constants={this.state.constants}
-              variables={this.state.variables}
-              gisQualified={this.state.gisQualified} />
-          </Col>
-        </Row>
-        <Row>
-        </Row>
-      </>
+
+        <SingleSituation />
+        <CoupleSituation />
+
+      </div>
     );
   }
 }
