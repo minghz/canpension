@@ -5,12 +5,14 @@ export function receivableOas(yearsInCanada, maxOas) {
   return maxOas 
 }
 
-export function receivableGis(annualIncome, maxGis) {
-  if(!isGisQualified(annualIncome)) { return 0 }
+export function receivableGis(annualIncome, receivableOas, standardIncome) {
+  // receivable OAS determines the GIS limit
+  // standardIncome is generally unchanged, as people need a minumum to survive
+  // receivableOas varies significantly as people live in Canada for different
+  // numbers of years (i.e. they receive partial OAS)
+  const gisLimit = standardIncome - receivableOas
 
-  return maxGis - annualIncome/12/2
-}
+  const receivable = gisLimit - annualIncome/12/2
 
-export function isGisQualified(annualIncome) {
-  return annualIncome < 1862400 ? true : false
+  return receivable > 0 ? receivable : 0
 }

@@ -15,7 +15,8 @@ class SingleSituation extends Component {
     this.state = {
       constants: {
         maxOas: 61414,
-        maxGis: 91729,
+        defaultGis: 91729, // applicable for someone receiving full OAS
+        standardIncome: 153143 // maxOas + defaultGis
       },
       variables: {
         yearsInCanada: 40,
@@ -49,7 +50,6 @@ class SingleSituation extends Component {
               variables={this.state.variables}
               oasCalculator={single.receivableOas}
               gisCalculator={single.receivableGis}
-              gisQualificator={single.isGisQualified}
             />
           </Col>
         </Row>

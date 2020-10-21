@@ -8,15 +8,14 @@ import { fmtCents } from "./formatters/money.js";
 function Calculations(props) {
 
   const oas = props.oasCalculator(props.variables.yearsInCanada, props.constants.maxOas);
-  const gis = props.gisCalculator(props.variables.annualIncome, props.constants.maxGis);
-  const gisQualified = props.gisQualificator(props.variables.annualIncome)
+  const gis = props.gisCalculator(props.variables.annualIncome, oas, props.constants.standardIncome);
 
   const receivableGisRow = () => {
-    if(gisQualified) {
+    if(gis > 0) {
       return(
         <Row>
           <Col span={8}>Receivable GIS</Col>
-          <Col span={8}>{fmtCents(props.constants.maxGis)} - {fmtCents(props.variables.annualIncome)} * 1yr/12mo/2</Col>
+          <Col span={8}>{fmtCents(props.constants.defaultGis)} - {fmtCents(props.variables.annualIncome)} * 1yr/12mo/2</Col>
           <Col span={1}>=</Col>
           <Col span={7}>{fmtCents(gis)} /mo</Col>
         </Row>

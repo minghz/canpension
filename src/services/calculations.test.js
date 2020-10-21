@@ -40,28 +40,29 @@ test('lived in Canada 10 years', () => {
 // For Singles, GIS reduces by half for every dollar in income
 // Running some examples in this table:
 // https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab1-51.html#above
-test('no income', () => {
-  const gis = single.receivableGis(0, 91729)
+
+
+// REFERENCE: https://retirehappy.ca/receiving-partial-oas-pension-affects-gis-amounts/
+const MAX_OAS = 61414
+const STANDARD_INCOME = 153143
+
+test('no income - receives default GIS', () => {
+  let gis = single.receivableGis(0, MAX_OAS, STANDARD_INCOME)
   expect(gis).toBe(91729);
 });
 
-test('too much income - hits limit', () => {
-  const gis = single.receivableGis(1862400, 91729)
-  expect(gis).toBe(0);
-});
-
 test('valid income - $1,032.00', () => {
-  const gis = single.receivableGis(103200, 91729)
+  let gis = single.receivableGis(103200, MAX_OAS, STANDARD_INCOME)
   expect(gis).toBe(87429);
 });
 
 test('valid income - $1,440.00', () => {
-  const gis = single.receivableGis(144000, 91729)
+  const gis = single.receivableGis(144000, MAX_OAS, STANDARD_INCOME)
   expect(gis).toBe(85729);
 });
 
 test('valid income - $1,920.00', () => {
-  const gis = single.receivableGis(192000, 91729)
+  const gis = single.receivableGis(192000, MAX_OAS, STANDARD_INCOME)
   expect(gis).toBe(83729);
 });
 
@@ -70,14 +71,11 @@ test('valid income - $1,920.00', () => {
 // https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab1-5.html
 // The range $2,040.00 - $2,047.99 only differs by 8 dollars, while all other ranges differ by 24.
 // They must have had a typo
-// This is throwing off all other numbers in the chart
+// This is throwing off all other numbers in the chart, and there may be more typos like these
 
-test('qualified for GIS', () => {
-  const qual = single.isGisQualified(1234)
-  expect(qual).toBe(true);
-});
-
-test('not qualified for GIS', () => {
-  const qual = single.isGisQualified(1862400)
-  expect(qual).toBe(false);
+// It is said that the limit is 1862400, but I believe its higher because of the
+// errors I mentioned above
+test('income exceed GIS qualification', () => {
+  const gis = single.receivableGis(2201496, MAX_OAS, STANDARD_INCOME)
+  expect(gis).toBe(0);
 });
