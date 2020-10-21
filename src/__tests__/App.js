@@ -1,0 +1,30 @@
+import React from 'react';
+import { render } from 'react-dom';
+import { act } from "react-dom/test-utils";
+
+import App from '../App';
+
+// https://jestjs.io/docs/en/manual-mocks#mocking-methods-which-are-not-implemented-in-jsdom
+Object.defineProperty(window, 'matchMedia', {
+  writable: true,
+  value: jest.fn().mockImplementation(query => ({
+    matches: false,
+    media: query,
+    onchange: null,
+    addListener: jest.fn(), // deprecated
+    removeListener: jest.fn(), // deprecated
+    addEventListener: jest.fn(),
+    removeEventListener: jest.fn(),
+    dispatchEvent: jest.fn(),
+  })),
+});
+
+test('renders learn react link', () => {
+  var container = document.createElement("div");
+
+  act(() => {
+    render(<App />, container);
+  })
+
+  expect(container).toBeDefined();
+});

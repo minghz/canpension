@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import 'antd/dist/antd.css';
-import { Card, Row, Col, Tabs } from "antd";
+import { Row, Col, Tabs } from "antd";
 import VariablesCouple from "./VariablesCouple";
 import Constants from "./Constants";
 import CalculationsCouple from "./CalculationsCouple";
-import { fmtCents } from "./formatters/money.js";
 
 const { TabPane } = Tabs;
 

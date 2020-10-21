@@ -3,6 +3,8 @@ import { Card, Row, Col, InputNumber } from "antd";
 import 'antd/dist/antd.css';
 import './css/App.css';
 
+import { fmtCents } from './formatters/money'
+
 //function showYearsError() {
 //  let e = document.getElementsByClassName("yearsInCanada")[0]
 //  e.classList.add('inputError')
@@ -16,35 +18,16 @@ import './css/App.css';
 class Variables extends Component {
 
   onYearsChange = (newYears) => {
-    if(newYears > 40) {
-      this.props.onChange(
-        {
-          yearsInCanada: 40,
-          annualIncome: this.props.data.annualIncome
-        }
-      )
-      return // ignore anything larger than 40
-    }
+    const years = newYears > 40 ? 40 : newYears
 
     this.props.onChange(
-      {
-        yearsInCanada: newYears,
-        annualIncome: this.props.data.annualIncome
-      }
+      Object.assign(this.props.data, {yearsInCanada: years})
     );
   }
 
   onIncomeChange = (newIncome) => {
-    // If your yearly income, not including your OAS pension, exceeds $18,623.99,
-    // you do not qualify for the Guaranteed Income Supplement.
-    if(newIncome >= 1862400) { this.props.onQualifyGis(false) }
-    else { this.props.onQualifyGis(true) }
-
     this.props.onChange(
-      {
-        yearsInCanada: this.props.data.yearsInCanada,
-        annualIncome: newIncome
-      }
+      Object.assign(this.props.data, {annualIncome: newIncome})
     );
   }
 
@@ -71,7 +54,7 @@ class Variables extends Component {
               defaultValue={this.props.data.annualIncome}
               step={100}
               min={0}
-              formatter={value => `$ ${value/100}`.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}
+              formatter={value => fmtCents(value)}
               parser={value => 100 * value.replace(/\$\s?|(,*)/g, '')}
               onChange={this.onIncomeChange}
             />
