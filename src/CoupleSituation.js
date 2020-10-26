@@ -36,7 +36,6 @@ class CoupleSituation extends Component {
   render() {
     return(
       <>
-        <h1> If you have a spouse or common-law partner</h1>
         <Tabs size="large" type="card">
           <TabPane tab="Spouse receive OAS" key="1">
 

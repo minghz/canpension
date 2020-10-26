@@ -32,7 +32,6 @@ class SingleSituation extends Component {
   render() {
     return(
       <>
-        <h1>If you are a single, widowed or divorced pensioner</h1>
         <Row>
           <Col span={12}>
             <Variables
