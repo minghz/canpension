@@ -28,7 +28,7 @@ class App extends Component {
 
     const alert = <Alert
       type="warning"
-      message="You may not qualify"
+      message="Warning: You may not qualify"
       description="Please note that you must meet above pre-requesites to qualify for OAS/GIS."
     />
 
