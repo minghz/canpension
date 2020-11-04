@@ -9,6 +9,6 @@ These parsers should help scrape the data and make it more useful.
 
 
 # To run
-`node -r esm app.js`
+`node -r esm single.js`
 
 esm helps run the script as a module without needing to import into html element
