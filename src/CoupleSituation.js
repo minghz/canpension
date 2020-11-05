@@ -5,7 +5,8 @@ import Variables2 from "./Variables2";
 import Constants from "./Constants";
 import Calculations2 from "./Calculations2";
 
-import * as single from './services/calculations'
+import { receivableOas } from "./services/oasCalculator";
+import { receivableGis } from "./services/singleGisLookup";
 
 const { TabPane } = Tabs;
 
@@ -49,8 +50,8 @@ class CoupleSituation extends Component {
             <Calculations2
               constants={this.state.constants}
               variables={this.state.variables}
-              oasCalculator={single.receivableOas}
-              gisCalculator={single.receivableGis}
+              oasCalculator={receivableOas}
+              gisCalculator={receivableGis}
             />
 
           </TabPane>

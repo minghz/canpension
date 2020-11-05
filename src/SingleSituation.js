@@ -6,7 +6,8 @@ import Variables from "./Variables";
 import Constants from "./Constants";
 import Calculations from "./Calculations";
 
-import * as single from "./services/calculations";
+import { receivableOas } from "./services/oasCalculator";
+import { receivableGis } from "./services/singleGisLookup";
 
 class SingleSituation extends Component {
   constructor(props) {
@@ -47,8 +48,8 @@ class SingleSituation extends Component {
             <Calculations
               constants={this.state.constants}
               variables={this.state.variables}
-              oasCalculator={single.receivableOas}
-              gisCalculator={single.receivableGis}
+              oasCalculator={receivableOas}
+              gisCalculator={receivableGis}
             />
           </Col>
         </Row>
