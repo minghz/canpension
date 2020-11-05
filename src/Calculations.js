@@ -4,6 +4,7 @@ import './css/App.css';
 import { Card, Row, Col } from "antd";
 import { fmtCents } from "./formatters/money.js";
 
+import { SINGLE_TABLE_URL } from "./constants/urls"
 
 function Calculations(props) {
 
@@ -15,7 +16,7 @@ function Calculations(props) {
       return(
         <Row>
           <Col span={8}>Receivable GIS</Col>
-          <Col span={8}>{fmtCents(props.constants.standardIncome)} - {fmtCents(oas)} - {fmtCents(props.variables.annualIncome)} * 1yr/12mo/2</Col>
+          <Col span={8}><a href={SINGLE_TABLE_URL} target="_blank">From lookup tables [1]</a></Col>
           <Col span={1}>=</Col>
           <Col span={7}>{fmtCents(gis)} /mo</Col>
         </Row>
