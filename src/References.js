@@ -2,7 +2,7 @@ import React from 'react';
 import 'antd/dist/antd.css';
 import { Card, Row, Col } from "antd";
 
-import { SINGLE_TABLE_URL } from "./constants/urls"
+import { SINGLE_TABLE_URL, COUPLE_OAS_TABLE_URL } from "./constants/urls"
 
 function References(props) {
   return(
@@ -15,7 +15,11 @@ function References(props) {
         </Col>
       </Row>
       <Row>
-        <Col span={24}><a href="./">[2] Reference</a></Col>
+        <Col span={24}>
+          <a href="./">
+            [2] Tables - GIS for couple qualifying for OAS
+          </a>
+        </Col>
       </Row>
       <Row>
         <Col span={24}><a href="./">[3] Reference</a></Col>
