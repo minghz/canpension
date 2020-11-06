@@ -9,7 +9,7 @@ import { SINGLE_TABLE_URL } from "./constants/urls"
 function Calculations(props) {
 
   const oas = props.oasCalculator(props.variables.yearsInCanada, props.constants.maxOas);
-  const gis = props.gisCalculator(props.variables.annualIncome, oas, props.constants.standardIncome);
+  const gis = props.gisLookup(props.variables.annualIncome);
 
   return(
     <Card title="Calculations">

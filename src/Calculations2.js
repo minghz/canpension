@@ -5,15 +5,13 @@ import { Card, Row, Col, Divider } from "antd";
 import { fmtCents } from "./formatters/money.js";
 
 
-// TODO: finish this
-// Right now it is identical to Calculations component
 function Calculations2(props) {
 
   const oas = props.oasCalculator(props.variables.yearsInCanada, props.constants.maxOas);
-  const gis = props.gisCalculator(props.variables.annualIncome/2, oas, props.constants.standardIncome);
+  const gis = props.gisLookup(props.variables.annualIncome);
 
   const oasSpouse = props.oasCalculator(props.variables.yearsSpouseInCanada, props.constants.maxOas);
-  const gisSpouse = props.gisCalculator(props.variables.annualIncome/2, oasSpouse, props.constants.standardIncome);
+  const gisSpouse = props.gisLookup(props.variables.annualIncome);
 
   return(
     <Card title="Calculations">

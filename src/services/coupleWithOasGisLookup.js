@@ -1,11 +1,6 @@
 import data from '../verifiers/coupleWithOas-2020-11-05T02:20:04.663Z.json'
 
-export function receivableGis(annualIncome, receivableOas, standardIncome) {
-  // receivable OAS determines the GIS limit
-  // standardIncome is generally unchanged, as people need a minumum to survive
-  // receivableOas varies significantly as people live in Canada for different
-  // numbers of years (i.e. they receive partial OAS)
-
+export function receivableGis(annualIncome) {
   let incomeDolars = annualIncome/100
   let receivableCents = 0;
 

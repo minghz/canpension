@@ -49,7 +49,7 @@ class SingleSituation extends Component {
               constants={this.state.constants}
               variables={this.state.variables}
               oasCalculator={receivableOas}
-              gisCalculator={receivableGis}
+              gisLookup={receivableGis}
             />
           </Col>
         </Row>
