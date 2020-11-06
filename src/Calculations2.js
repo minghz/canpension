@@ -15,28 +15,6 @@ function Calculations2(props) {
   const oasSpouse = props.oasCalculator(props.variables.yearsSpouseInCanada, props.constants.maxOas);
   const gisSpouse = props.gisCalculator(props.variables.annualIncome/2, oasSpouse, props.constants.standardIncome);
 
-  const receivableGisRow = (receivableOas, receivableGis) => {
-    if(receivableGis > 0) {
-      return(
-        <Row>
-          <Col span={8}>Receivable GIS</Col>
-          <Col span={8}>{fmtCents(props.constants.standardIncome)} - {fmtCents(receivableOas)} - {fmtCents(props.variables.annualIncome)} * 1yr/12mo/2/2</Col>
-          <Col span={1}>=</Col>
-          <Col span={7}>{fmtCents(receivableGis)} /mo</Col>
-        </Row>
-      )
-    } else {
-      return(
-        <Row>
-          <Col span={8}>Receivable GIS</Col>
-          <Col span={8}>Income is, or exceeded $18,624.00</Col>
-          <Col span={1}>=</Col>
-          <Col span={7}>{fmtCents(0)} /mo</Col>
-        </Row>
-      )
-    }
-  }
-
   return(
     <Card title="Calculations">
       <h2>You</h2>
@@ -46,7 +24,12 @@ function Calculations2(props) {
         <Col span={1}>=</Col>
         <Col span={7}>{fmtCents(oas)} /mo</Col>
       </Row>
-      {receivableGisRow(oas, gis)}
+      <Row>
+          <Col span={8}>Receivable GIS</Col>
+          <Col span={8}>Reference table</Col>
+          <Col span={1}>=</Col>
+          <Col span={7}>{fmtCents(gis)} /mo</Col>
+      </Row>
       <Row>
         <Col span={8}></Col>
         <Col span={8} className="textAlignRight bold">Total</Col>
@@ -61,7 +44,12 @@ function Calculations2(props) {
         <Col span={1}>=</Col>
         <Col span={7}>{fmtCents(oasSpouse)} /mo</Col>
       </Row>
-      {receivableGisRow(oasSpouse, gisSpouse)}
+      <Row>
+          <Col span={8}>Receivable GIS</Col>
+          <Col span={8}>Reference table</Col>
+          <Col span={1}>=</Col>
+          <Col span={7}>{fmtCents(gisSpouse)} /mo</Col>
+      </Row>
       <Row>
         <Col span={8}></Col>
         <Col span={8} className="textAlignRight bold">Total</Col>

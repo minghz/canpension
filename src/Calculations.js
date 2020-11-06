@@ -11,28 +11,6 @@ function Calculations(props) {
   const oas = props.oasCalculator(props.variables.yearsInCanada, props.constants.maxOas);
   const gis = props.gisCalculator(props.variables.annualIncome, oas, props.constants.standardIncome);
 
-  const receivableGisRow = () => {
-    if(gis > 0) {
-      return(
-        <Row>
-          <Col span={8}>Receivable GIS</Col>
-          <Col span={8}><a href={SINGLE_TABLE_URL} target="_blank">From lookup tables [1]</a></Col>
-          <Col span={1}>=</Col>
-          <Col span={7}>{fmtCents(gis)} /mo</Col>
-        </Row>
-      )
-    } else {
-      return(
-        <Row>
-          <Col span={8}>Receivable GIS</Col>
-          <Col span={8}>Income is, or exceeded $18,624.00</Col>
-          <Col span={1}>=</Col>
-          <Col span={7}>{fmtCents(0)} /mo</Col>
-        </Row>
-      )
-    }
-  }
-
   return(
     <Card title="Calculations">
       <Row>
@@ -41,7 +19,12 @@ function Calculations(props) {
         <Col span={1}>=</Col>
         <Col span={7}>{fmtCents(oas)} /mo</Col>
       </Row>
-      {receivableGisRow()}
+      <Row>
+          <Col span={8}>Receivable GIS</Col>
+          <Col span={8}><a href={SINGLE_TABLE_URL} target="_blank">From lookup tables [1]</a></Col>
+          <Col span={1}>=</Col>
+          <Col span={7}>{fmtCents(gis)} /mo</Col>
+        </Row>
       <Row>
         <Col span={8}></Col>
         <Col span={8} className="textAlignRight bold">Total</Col>

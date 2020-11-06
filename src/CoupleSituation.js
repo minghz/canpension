@@ -6,7 +6,7 @@ import Constants from "./Constants";
 import Calculations2 from "./Calculations2";
 
 import { receivableOas } from "./services/oasCalculator";
-import { receivableGis } from "./services/singleGisLookup";
+import { receivableGis } from "./services/coupleWithOasGisLookup";
 
 const { TabPane } = Tabs;
 
