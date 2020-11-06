@@ -1,28 +1,28 @@
-// GIS for single person who receives an Old Age Security pension
-// https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab1-1.html
+// GIS for a couple where both are qualified for OAS
+// https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab2-1.html
 //
-// table 1-1 -> table 1-51
+// table 2-1 -> table 2-31
 //
 //
-// Parses the Canada gov website for the single tables and returns an array of
+// Parses the Canada gov website for the tables and returns an array of
 // objects that represent the annual income range, interval, and expected gis
 //
 // i.e.
 // [
-//   { range: [ 0, 23.99 ], interval: 24, gis: 917.29 },
-//   { range: [ 24, 47.99 ], interval: 24, gis: 916.29 },
-//   { range: [ 48, 71.99 ], interval: 24, gis: 915.29 },
-//   { range: [ 72, 95.99 ], interval: 24, gis: 914.29 },
+//   { range: [ 0, 47.99 ], interval: 48, gis: 552.18 },
+//   { range: [ 48, 95.99 ], interval: 48, gis: 551.18 },
+//   { range: [ 96, 143.99 ], interval: 48, gis: 550.18 },
+//   { range: [ 144, 191.99 ], interval: 48, gis: 549.18 },
 //   ...
 // ]
 // 
-// Finally, it will write it into a JSON file called single-TIMESTAMP.json
+// Finally, it will write it into a JSON file called coupleWithOas-TIMESTAMP.json
 //
 
 import https from 'https';
 import jsdom, { JSDOM } from 'jsdom';
 
-const tableUrl = (pageNo) => "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab1-" + pageNo + ".html";
+const tableUrl = (pageNo) => "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab2-" + pageNo + ".html";
 
 const fetchPage = (url) => new Promise((resolve, reject) => {
   https.get(url, (resp) => {
@@ -117,7 +117,7 @@ const main = async () => {
 
   let tableData = []
 
-  for(let i = 1; i < 52; i++) {
+  for(let i = 1; i < 32; i++) {
     let pageUrl = tableUrl(i)
 
     let page = await fetchPage(pageUrl)
@@ -134,7 +134,7 @@ const main = async () => {
   let jsonStr = JSON.stringify(tableData, null, 2); // spacing level = 2
 
   const fs = require('fs');
-  let filename = 'single-' + (new Date()).toISOString() + '.json';
+  let filename = 'coupleWithOas-' + (new Date()).toISOString() + '.json';
   fs.writeFileSync(filename, jsonStr)
 }
 
