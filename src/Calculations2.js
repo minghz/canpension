@@ -9,10 +9,10 @@ import { COUPLE_OAS_TABLE_URL } from "./constants/urls"
 function Calculations2(props) {
 
   const oas = props.oasCalculator(props.variables.yearsInCanada, props.constants.maxOas);
-  const gis = props.gisLookup(props.variables.annualIncome);
+  const gis = props.gisLookup(props.variables.annualIncome, oas, props.constants.standardIncome);
 
   const oasSpouse = props.oasCalculator(props.variables.yearsSpouseInCanada, props.constants.maxOas);
-  const gisSpouse = props.gisLookup(props.variables.annualIncome);
+  const gisSpouse = props.gisLookup(props.variables.annualIncome, oasSpouse, props.constants.standardIncome);
 
   return(
     <Card title="Calculations">
