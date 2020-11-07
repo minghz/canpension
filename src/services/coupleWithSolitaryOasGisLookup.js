@@ -1,4 +1,4 @@
-import data from '../verifiers/coupleWithOas-2020-11-05T02:20:04.663Z.json'
+import data from '../verifiers/coupleWithSolitaryOas-2020-11-07T06:36:23.647Z.json'
 
 export function receivableGis(annualIncome, receivableOas, standardIncome) {
 
@@ -14,7 +14,7 @@ export function receivableGis(annualIncome, receivableOas, standardIncome) {
 // This is because every row of the table has GIS amount reduced by 1
 function reducible(annualIncome) {
   const MAX_GIS = data[0].gis * 100
-  const UPPER_INCOME_LIMIT = 2457600
+  const UPPER_INCOME_LIMIT = 4464000
 
   let incomeDolars = annualIncome/100
   for(let i = 0; i < data.length; i++) {

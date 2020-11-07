@@ -47,7 +47,7 @@ class Variables extends Component {
           </Col>
         </Row>
         <Row>
-          <Col span={16}>Annual Income (excluding OAS)</Col>
+          <Col span={16}>Annual Income (excluding OAS & GIS)</Col>
           <Col span={8}>
             <InputNumber
               className="numberInput"

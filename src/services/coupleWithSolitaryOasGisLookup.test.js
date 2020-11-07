@@ -1,4 +1,4 @@
-import { receivableGis } from './coupleWithOasGisLookup'
+import { receivableGis } from './coupleWithSolitaryOasGisLookup'
 
 // Receivable GIS amounts - Varies according to annual income
 // The more income, the less GIS
@@ -8,37 +8,37 @@ import { receivableGis } from './coupleWithOasGisLookup'
 // https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab2-1.html
 
 const MAX_OAS = 61414
-const STANDARD_INCOME = 116632
-const UPPER_INCOME_LIMIT = 2457600
+const STANDARD_INCOME = 153143
+const UPPER_INCOME_LIMIT = 4464000
 
 test('no income - receives default GIS', () => {
   let gis = receivableGis(0, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(55218);
+  expect(gis).toBe(STANDARD_INCOME - MAX_OAS);
 });
 
-test('valid income - $816.00', () => {
-  let gis = receivableGis(81600, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(53518);
-});
-
-test('valid income - $4,368.00', () => {
-  const gis = receivableGis(436800, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(45818);
-});
-
-test('valid income - $7,344.00', () => {
-  const gis = receivableGis(734400, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(36518);
-});
-
-test('valid income - $11,280.00', () => {
-  const gis = receivableGis(1128000, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(27692);
+test('valid income - $4,384.00', () => {
+  let gis = receivableGis(438400, MAX_OAS, STANDARD_INCOME)
+  expect(gis).toBe(91329);
 });
 
 test('valid income - $14,880.00', () => {
   const gis = receivableGis(1488000, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(20192);
+  expect(gis).toBe(64829);
+});
+
+test('valid income - $24,624.00', () => {
+  const gis = receivableGis(2462400, MAX_OAS, STANDARD_INCOME)
+  expect(gis).toBe(41621);
+});
+
+test('valid income - $33,600.00', () => {
+  const gis = receivableGis(3360000, MAX_OAS, STANDARD_INCOME)
+  expect(gis).toBe(22921);
+});
+
+test('valid income - $41,520.00', () => {
+  const gis = receivableGis(4152000, MAX_OAS, STANDARD_INCOME)
+  expect(gis).toBe(6421);
 });
 
 test('income at GIS qualification limit', () => {
@@ -62,12 +62,12 @@ test('partial OAS with no income', () => {
 
 test('partial OAS with income - $816.00', () => {
   const gis = receivableGis(81600, PARTIAL_OAS, STANDARD_INCOME)
-  expect(gis).toBe(84225);
+  expect(gis).toBe(122436);
 });
 
 test('partial OAS with valid income - $7,344.00', () => {
   const gis = receivableGis(734400, MAX_OAS, STANDARD_INCOME)
-  expect(gis).toBe(36518);
+  expect(gis).toBe(88329);
 });
 
 test('partial OAS with income exceeding standard UPPER_INCOME_LIMIT', () => {
@@ -77,6 +77,6 @@ test('partial OAS with income exceeding standard UPPER_INCOME_LIMIT', () => {
 
 // Note how with partial OAS, the upper income limit is ~$14k higher
 test('partial OAS with income rendering zero receivable GIS', () => {
-  const gis = receivableGis(3932000, PARTIAL_OAS, STANDARD_INCOME)
+  const gis = receivableGis(59400000, PARTIAL_OAS, STANDARD_INCOME)
   expect(gis).toBe(0);
 })
