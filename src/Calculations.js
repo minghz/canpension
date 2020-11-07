@@ -21,7 +21,11 @@ function Calculations(props) {
       </Row>
       <Row>
           <Col span={8}>Receivable GIS</Col>
-          <Col span={8}><a href={SINGLE_TABLE_URL} target="_blank">From lookup tables [1]</a></Col>
+          <Col span={8}>
+            <a href={SINGLE_TABLE_URL} target="_blank" rel="noopener noreferrer">
+              From lookup tables [1]
+            </a>
+          </Col>
           <Col span={1}>=</Col>
           <Col span={7}>{fmtCents(gis)} /mo</Col>
         </Row>

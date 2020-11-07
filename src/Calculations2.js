@@ -25,7 +25,11 @@ function Calculations2(props) {
       </Row>
       <Row>
           <Col span={8}>Receivable GIS</Col>
-          <Col span={8}><a href={COUPLE_OAS_TABLE_URL} target="_blank">From lookup tables [2]</a></Col>
+          <Col span={8}>
+            <a href={COUPLE_OAS_TABLE_URL} target="_blank" rel="noopener noreferrer">
+              From lookup tables [2]
+            </a>
+          </Col>
           <Col span={1}>=</Col>
           <Col span={7}>{fmtCents(gis)} /mo</Col>
       </Row>
@@ -45,7 +49,11 @@ function Calculations2(props) {
       </Row>
       <Row>
           <Col span={8}>Receivable GIS</Col>
-          <Col span={8}><a href={COUPLE_OAS_TABLE_URL} target="_blank">From lookup tables [2]</a></Col>
+          <Col span={8}>
+            <a href={COUPLE_OAS_TABLE_URL} target="_blank" rel="noopener noreferrer">
+              From lookup tables [2]
+            </a>
+          </Col>
           <Col span={1}>=</Col>
           <Col span={7}>{fmtCents(gisSpouse)} /mo</Col>
       </Row>

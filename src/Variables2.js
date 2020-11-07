@@ -37,7 +37,7 @@ class Variables2 extends Component {
           <Col span={16}>Years you have lived in Canada</Col>
           <Col span={8}>
             <InputNumber
-              className="yearsInCanada"
+              className="numberInput"
               size="large"
               defaultValue={this.props.data.yearsInCanada}
               min={10}
@@ -49,7 +49,7 @@ class Variables2 extends Component {
           <Col span={16}>Years your spouse has lived in Canada</Col>
           <Col span={8}>
             <InputNumber
-              className="yearsInCanada"
+              className="numberInput"
               size="large"
               defaultValue={this.props.data.yearsSpouseInCanada}
               min={10}
@@ -61,6 +61,7 @@ class Variables2 extends Component {
           <Col span={16}>Annual Household Income (excluding OAS)</Col>
           <Col span={8}>
             <InputNumber
+              className="numberInput"
               size="large"
               defaultValue={this.props.data.annualIncome}
               step={100}

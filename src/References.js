@@ -9,14 +9,14 @@ function References(props) {
     <Card title="References">
       <Row>
         <Col span={24}>
-          <a href={SINGLE_TABLE_URL} target="_blank">
+          <a href={SINGLE_TABLE_URL} target="_blank" rel="noopener noreferrer">
             [1] Tables - GIS for single person
           </a>
         </Col>
       </Row>
       <Row>
         <Col span={24}>
-          <a href="./">
+          <a href={COUPLE_OAS_TABLE_URL} target="_blank" rel="noopener noreferrer">
             [2] Tables - GIS for couple qualifying for OAS
           </a>
         </Col>
