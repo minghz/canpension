@@ -14,11 +14,11 @@ class CoupleSituation extends Component {
         <TabPane tab="Spouse receive OAS" key="1">
           <CoupleWithOas />
         </TabPane>
-        <TabPane tab="Spouse receives the Allowance" key="3"></TabPane>
         <TabPane tab="Spouse does not receive OAS or Allowance" key="2">
           {/* Note that partial-OAS scenario for this case is very iffy! */}
           <CoupleWithSolitaryOas />
         </TabPane>
+        <TabPane tab="Spouse receives the Allowance" key="3"></TabPane>
       </Tabs>
     );
   }
