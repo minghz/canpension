@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ac71b17f2649ced423184d366b9e6dc",
+    "revision": "57f7c66f5221b3711382fd1c1a854c8a",
     "url": "/minghz/canpension/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minghz/canpension/static/css/2.00a338ba.chunk.css"
   },
   {
-    "revision": "b2fd1527c6a323014729",
+    "revision": "8bd54c2abce4af12c1d6",
     "url": "/minghz/canpension/static/css/main.fccc3356.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minghz/canpension/static/js/2.de707073.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2fd1527c6a323014729",
-    "url": "/minghz/canpension/static/js/main.0ea2a47a.chunk.js"
+    "revision": "8bd54c2abce4af12c1d6",
+    "url": "/minghz/canpension/static/js/main.510319ae.chunk.js"
   },
   {
     "revision": "0f6501e3b83cd4b93cae",

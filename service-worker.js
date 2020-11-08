@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/minghz/canpension/precache-manifest.d7d05642ac98d29eb4ddcf4104e84721.js"
+  "/minghz/canpension/precache-manifest.b115e42b2e2522e9044615fb94aebf7e.js"
 );
 
 self.addEventListener('message', (event) => {
