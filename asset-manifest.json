@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fccc3356.chunk.css",
-    "main.js": "/static/js/main.b22b11cf.chunk.js",
-    "main.js.map": "/static/js/main.b22b11cf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2aa3efaf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2aa3efaf.js.map",
-    "static/css/2.00a338ba.chunk.css": "/static/css/2.00a338ba.chunk.css",
-    "static/js/2.de707073.chunk.js": "/static/js/2.de707073.chunk.js",
-    "static/js/2.de707073.chunk.js.map": "/static/js/2.de707073.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.947c2ff5adcf94525d3e43a73bb1d9f7.js": "/precache-manifest.947c2ff5adcf94525d3e43a73bb1d9f7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.00a338ba.chunk.css.map": "/static/css/2.00a338ba.chunk.css.map",
-    "static/css/main.fccc3356.chunk.css.map": "/static/css/main.fccc3356.chunk.css.map",
-    "static/js/2.de707073.chunk.js.LICENSE.txt": "/static/js/2.de707073.chunk.js.LICENSE.txt"
+    "main.css": "/minghz/canpension/static/css/main.fccc3356.chunk.css",
+    "main.js": "/minghz/canpension/static/js/main.0ea2a47a.chunk.js",
+    "main.js.map": "/minghz/canpension/static/js/main.0ea2a47a.chunk.js.map",
+    "runtime-main.js": "/minghz/canpension/static/js/runtime-main.cc5b6baf.js",
+    "runtime-main.js.map": "/minghz/canpension/static/js/runtime-main.cc5b6baf.js.map",
+    "static/css/2.00a338ba.chunk.css": "/minghz/canpension/static/css/2.00a338ba.chunk.css",
+    "static/js/2.de707073.chunk.js": "/minghz/canpension/static/js/2.de707073.chunk.js",
+    "static/js/2.de707073.chunk.js.map": "/minghz/canpension/static/js/2.de707073.chunk.js.map",
+    "index.html": "/minghz/canpension/index.html",
+    "precache-manifest.d7d05642ac98d29eb4ddcf4104e84721.js": "/minghz/canpension/precache-manifest.d7d05642ac98d29eb4ddcf4104e84721.js",
+    "service-worker.js": "/minghz/canpension/service-worker.js",
+    "static/css/2.00a338ba.chunk.css.map": "/minghz/canpension/static/css/2.00a338ba.chunk.css.map",
+    "static/css/main.fccc3356.chunk.css.map": "/minghz/canpension/static/css/main.fccc3356.chunk.css.map",
+    "static/js/2.de707073.chunk.js.LICENSE.txt": "/minghz/canpension/static/js/2.de707073.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2aa3efaf.js",
+    "static/js/runtime-main.cc5b6baf.js",
     "static/css/2.00a338ba.chunk.css",
     "static/js/2.de707073.chunk.js",
     "static/css/main.fccc3356.chunk.css",
-    "static/js/main.b22b11cf.chunk.js"
+    "static/js/main.0ea2a47a.chunk.js"
   ]
 }
