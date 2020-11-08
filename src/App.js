@@ -43,16 +43,15 @@ class App extends Component {
           <p>This website is not sponsored by the Canadian government. The calculations here serve as reference only, with data taken from the official Government of Canada websites. Reference links can be found on this site for further context.</p>
           <p>Found a mistake? Have a suggestion? Tweet at the author <a href="https://twitter.com/minghz42" target="_blank" rel="noopener noreferrer"><TwitterOutlined /></a></p>
           <p>Want to help improve the site? Suggest a fix <a href="https://github.com/minghz/canpension" target="_blank" rel="noopener noreferrer"><GithubOutlined /></a></p>
-          <p>If this site has helped you, consider making a small donation to the author to help fund it.
-            <form action="https://www.paypal.com/donate" method="post" target="_top">
-              <input type="hidden" name="cmd" value="_donations" />
-              <input type="hidden" name="business" value="ZZWHWFPWB8RAU" />
-              <input type="hidden" name="item_name" value="OAS/GIS Calculator Site Funding" />
-              <input type="hidden" name="currency_code" value="CAD" />
-              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-              <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" height="1" />
-            </form>
-          </p>
+          <p>If this site has helped you, consider making a small donation to the author to help fund it.</p>
+          <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_donations" />
+            <input type="hidden" name="business" value="ZZWHWFPWB8RAU" />
+            <input type="hidden" name="item_name" value="OAS/GIS Calculator Site Funding" />
+            <input type="hidden" name="currency_code" value="CAD" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" height="1" />
+          </form>
           <p>Last updated: Nov 2020</p>
         </div>
       );
