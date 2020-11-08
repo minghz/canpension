@@ -4,7 +4,6 @@ import './css/App.css';
 import { Card, Row, Col, Divider } from "antd";
 import { fmtCents } from "./formatters/money.js";
 
-import { COUPLE_OAS_TABLE_URL } from "./constants/urls"
 
 function Calculations2(props) {
 
@@ -40,8 +39,8 @@ function Calculations2(props) {
       <Row>
           <Col span={8}>Receivable GIS</Col>
           <Col span={8}>
-            <a href={COUPLE_OAS_TABLE_URL} target="_blank" rel="noopener noreferrer">
-              From lookup tables [2]
+            <a href={props.referenceUrl} target="_blank" rel="noopener noreferrer">
+              {props.referenceText}
             </a>
           </Col>
           <Col span={1}>=</Col>
@@ -64,8 +63,8 @@ function Calculations2(props) {
       <Row>
           <Col span={8}>Receivable GIS</Col>
           <Col span={8}>
-            <a href={COUPLE_OAS_TABLE_URL} target="_blank" rel="noopener noreferrer">
-              From lookup tables [2]
+            <a href={props.referenceUrl} target="_blank" rel="noopener noreferrer">
+              {props.referenceText}
             </a>
           </Col>
           <Col span={1}>=</Col>

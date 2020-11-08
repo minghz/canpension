@@ -8,6 +8,8 @@ import Calculations from "./Calculations";
 import { receivableOas } from "./services/oasCalculator";
 import { coupleSolitary as receivableGis } from "./services/gisLookup";
 
+import { COUPLE_SOLITARY_OAS_TABLE_URL } from "./constants/urls"
+
 class CoupleWithSolitaryOas extends Component {
   constructor(props) {
     super(props)
@@ -49,6 +51,8 @@ class CoupleWithSolitaryOas extends Component {
               variables={this.state.variables}
               oasCalculator={receivableOas}
               gisLookup={receivableGis}
+              referenceText={"From lookup tables [3]"}
+              referenceUrl={COUPLE_SOLITARY_OAS_TABLE_URL}
             />
           </Col>
         </Row>

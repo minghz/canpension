@@ -18,7 +18,8 @@ class CoupleSituation extends Component {
           {/* Note that partial-OAS scenario for this case is very iffy! */}
           <CoupleWithSolitaryOas />
         </TabPane>
-        <TabPane tab="Spouse receives the Allowance" key="3"></TabPane>
+          {/* Last case scenario put on-hold */}
+          {/*</TabPane><TabPane tab="Spouse receives the Allowance" key="3">*/}
       </Tabs>
     );
   }

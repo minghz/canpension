@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import 'antd/dist/antd.css';
 import { Alert, Card, Checkbox } from "antd";
 
+import { OAS_QUALIFICATION_URL } from './constants/urls'
 
 const options = [
   "I am 65 years of age or older",
@@ -39,6 +40,10 @@ class Prerequesites extends Component {
           defaultValue={[]}
           onChange={this.onChange}
         />
+        <p></p>
+        <a href={OAS_QUALIFICATION_URL} target="_blank" rel="noopener noreferrer">
+          See more on OAS qualification requirements [4]
+        </a>
       </Card>
     );
   }
