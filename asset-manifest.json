@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/minghz/canpension/static/css/main.fccc3356.chunk.css",
-    "main.js": "/minghz/canpension/static/js/main.510319ae.chunk.js",
-    "main.js.map": "/minghz/canpension/static/js/main.510319ae.chunk.js.map",
-    "runtime-main.js": "/minghz/canpension/static/js/runtime-main.cc5b6baf.js",
-    "runtime-main.js.map": "/minghz/canpension/static/js/runtime-main.cc5b6baf.js.map",
-    "static/css/2.00a338ba.chunk.css": "/minghz/canpension/static/css/2.00a338ba.chunk.css",
-    "static/js/2.de707073.chunk.js": "/minghz/canpension/static/js/2.de707073.chunk.js",
-    "static/js/2.de707073.chunk.js.map": "/minghz/canpension/static/js/2.de707073.chunk.js.map",
-    "index.html": "/minghz/canpension/index.html",
-    "precache-manifest.b115e42b2e2522e9044615fb94aebf7e.js": "/minghz/canpension/precache-manifest.b115e42b2e2522e9044615fb94aebf7e.js",
-    "service-worker.js": "/minghz/canpension/service-worker.js",
-    "static/css/2.00a338ba.chunk.css.map": "/minghz/canpension/static/css/2.00a338ba.chunk.css.map",
-    "static/css/main.fccc3356.chunk.css.map": "/minghz/canpension/static/css/main.fccc3356.chunk.css.map",
-    "static/js/2.de707073.chunk.js.LICENSE.txt": "/minghz/canpension/static/js/2.de707073.chunk.js.LICENSE.txt"
+    "main.css": "/canpension/static/css/main.fccc3356.chunk.css",
+    "main.js": "/canpension/static/js/main.65917598.chunk.js",
+    "main.js.map": "/canpension/static/js/main.65917598.chunk.js.map",
+    "runtime-main.js": "/canpension/static/js/runtime-main.53710f82.js",
+    "runtime-main.js.map": "/canpension/static/js/runtime-main.53710f82.js.map",
+    "static/css/2.00a338ba.chunk.css": "/canpension/static/css/2.00a338ba.chunk.css",
+    "static/js/2.de707073.chunk.js": "/canpension/static/js/2.de707073.chunk.js",
+    "static/js/2.de707073.chunk.js.map": "/canpension/static/js/2.de707073.chunk.js.map",
+    "index.html": "/canpension/index.html",
+    "precache-manifest.b565ea7102f9cd97d28a4becf8dacffc.js": "/canpension/precache-manifest.b565ea7102f9cd97d28a4becf8dacffc.js",
+    "service-worker.js": "/canpension/service-worker.js",
+    "static/css/2.00a338ba.chunk.css.map": "/canpension/static/css/2.00a338ba.chunk.css.map",
+    "static/css/main.fccc3356.chunk.css.map": "/canpension/static/css/main.fccc3356.chunk.css.map",
+    "static/js/2.de707073.chunk.js.LICENSE.txt": "/canpension/static/js/2.de707073.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc5b6baf.js",
+    "static/js/runtime-main.53710f82.js",
     "static/css/2.00a338ba.chunk.css",
     "static/js/2.de707073.chunk.js",
     "static/css/main.fccc3356.chunk.css",
-    "static/js/main.510319ae.chunk.js"
+    "static/js/main.65917598.chunk.js"
   ]
 }
