@@ -1,4 +1,4 @@
-import { receivableGis } from './singleGisLookup'
+import { single as receivableGis } from './gisLookup'
 
 // Receivable GIS amounts - Varies according to annual income
 // The more income, the less GIS

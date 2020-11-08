@@ -6,7 +6,7 @@ import Constants from "./Constants";
 import Calculations from "./Calculations";
 
 import { receivableOas } from "./services/oasCalculator";
-import { receivableGis } from "./services/coupleWithSolitaryOasGisLookup";
+import { coupleSolitary as receivableGis } from "./services/gisLookup";
 
 class CoupleWithSolitaryOas extends Component {
   constructor(props) {

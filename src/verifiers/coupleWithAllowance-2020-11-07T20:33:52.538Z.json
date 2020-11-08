@@ -1,0 +1,6824 @@
+[
+  {
+    "range": [
+      0,
+      47.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1166.32
+  },
+  {
+    "range": [
+      48,
+      95.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1163.32
+  },
+  {
+    "range": [
+      96,
+      143.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1160.32
+  },
+  {
+    "range": [
+      144,
+      191.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1157.32
+  },
+  {
+    "range": [
+      192,
+      239.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1154.32
+  },
+  {
+    "range": [
+      240,
+      287.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1151.32
+  },
+  {
+    "range": [
+      288,
+      335.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1148.32
+  },
+  {
+    "range": [
+      336,
+      383.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1145.32
+  },
+  {
+    "range": [
+      384,
+      431.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1142.32
+  },
+  {
+    "range": [
+      432,
+      479.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1139.32
+  },
+  {
+    "range": [
+      480,
+      527.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1136.32
+  },
+  {
+    "range": [
+      528,
+      575.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1133.32
+  },
+  {
+    "range": [
+      576,
+      623.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1130.32
+  },
+  {
+    "range": [
+      624,
+      671.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1127.32
+  },
+  {
+    "range": [
+      672,
+      719.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1124.32
+  },
+  {
+    "range": [
+      720,
+      767.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1121.32
+  },
+  {
+    "range": [
+      768,
+      815.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1118.32
+  },
+  {
+    "range": [
+      816,
+      863.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1115.32
+  },
+  {
+    "range": [
+      864,
+      911.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1112.32
+  },
+  {
+    "range": [
+      912,
+      959.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1109.32
+  },
+  {
+    "range": [
+      960,
+      1007.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1106.32
+  },
+  {
+    "range": [
+      1008,
+      1055.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1103.32
+  },
+  {
+    "range": [
+      1056,
+      1103.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1100.32
+  },
+  {
+    "range": [
+      1104,
+      1151.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1097.32
+  },
+  {
+    "range": [
+      1152,
+      1199.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1094.32
+  },
+  {
+    "range": [
+      1200,
+      1247.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1091.32
+  },
+  {
+    "range": [
+      1248,
+      1295.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1088.32
+  },
+  {
+    "range": [
+      1296,
+      1343.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1085.32
+  },
+  {
+    "range": [
+      1344,
+      1391.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1082.32
+  },
+  {
+    "range": [
+      1392,
+      1439.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1079.32
+  },
+  {
+    "range": [
+      1440,
+      1487.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1076.32
+  },
+  {
+    "range": [
+      1488,
+      1535.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1073.32
+  },
+  {
+    "range": [
+      1536,
+      1583.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1070.32
+  },
+  {
+    "range": [
+      1584,
+      1631.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1067.32
+  },
+  {
+    "range": [
+      1632,
+      1679.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1064.32
+  },
+  {
+    "range": [
+      1680,
+      1727.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1061.32
+  },
+  {
+    "range": [
+      1728,
+      1775.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1058.32
+  },
+  {
+    "range": [
+      1776,
+      1823.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1055.32
+  },
+  {
+    "range": [
+      1824,
+      1871.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1052.32
+  },
+  {
+    "range": [
+      1872,
+      1919.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1049.32
+  },
+  {
+    "range": [
+      1920,
+      1967.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1046.32
+  },
+  {
+    "range": [
+      1968,
+      2015.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1043.32
+  },
+  {
+    "range": [
+      2016,
+      2063.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1040.32
+  },
+  {
+    "range": [
+      2064,
+      2111.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1037.32
+  },
+  {
+    "range": [
+      2112,
+      2159.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1034.32
+  },
+  {
+    "range": [
+      2160,
+      2207.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1031.32
+  },
+  {
+    "range": [
+      2208,
+      2255.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1028.32
+  },
+  {
+    "range": [
+      2256,
+      2303.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1025.32
+  },
+  {
+    "range": [
+      2304,
+      2351.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1022.32
+  },
+  {
+    "range": [
+      2352,
+      2399.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1019.32
+  },
+  {
+    "range": [
+      2400,
+      2447.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1016.32
+  },
+  {
+    "range": [
+      2448,
+      2495.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1013.32
+  },
+  {
+    "range": [
+      2496,
+      2543.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1010.32
+  },
+  {
+    "range": [
+      2544,
+      2591.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1007.32
+  },
+  {
+    "range": [
+      2592,
+      2639.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1004.32
+  },
+  {
+    "range": [
+      2640,
+      2687.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 1001.32
+  },
+  {
+    "range": [
+      2688,
+      2735.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 998.32
+  },
+  {
+    "range": [
+      2736,
+      2783.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 995.32
+  },
+  {
+    "range": [
+      2784,
+      2831.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 992.32
+  },
+  {
+    "range": [
+      2832,
+      2879.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 989.32
+  },
+  {
+    "range": [
+      2880,
+      2927.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 986.32
+  },
+  {
+    "range": [
+      2928,
+      2975.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 983.32
+  },
+  {
+    "range": [
+      2976,
+      3023.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 980.32
+  },
+  {
+    "range": [
+      3024,
+      3071.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 977.32
+  },
+  {
+    "range": [
+      3072,
+      3119.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 974.32
+  },
+  {
+    "range": [
+      3120,
+      3167.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 971.32
+  },
+  {
+    "range": [
+      3168,
+      3215.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 968.32
+  },
+  {
+    "range": [
+      3216,
+      3263.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 965.32
+  },
+  {
+    "range": [
+      3264,
+      3311.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 962.32
+  },
+  {
+    "range": [
+      3312,
+      3359.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 959.32
+  },
+  {
+    "range": [
+      3360,
+      3407.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 956.32
+  },
+  {
+    "range": [
+      3408,
+      3455.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 953.32
+  },
+  {
+    "range": [
+      3456,
+      3503.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 950.32
+  },
+  {
+    "range": [
+      3504,
+      3551.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 947.32
+  },
+  {
+    "range": [
+      3552,
+      3599.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 944.32
+  },
+  {
+    "range": [
+      3600,
+      3647.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 941.32
+  },
+  {
+    "range": [
+      3648,
+      3695.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 938.32
+  },
+  {
+    "range": [
+      3696,
+      3743.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 935.32
+  },
+  {
+    "range": [
+      3744,
+      3791.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 932.32
+  },
+  {
+    "range": [
+      3792,
+      3839.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 929.32
+  },
+  {
+    "range": [
+      3840,
+      3887.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 926.32
+  },
+  {
+    "range": [
+      3888,
+      3935.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 923.32
+  },
+  {
+    "range": [
+      3936,
+      3983.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 920.32
+  },
+  {
+    "range": [
+      3984,
+      4031.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 917.32
+  },
+  {
+    "range": [
+      4032,
+      4079.99
+    ],
+    "interval": 48,
+    "gis": 552.18,
+    "allowance": 914.32
+  },
+  {
+    "range": [
+      4080,
+      4095.99
+    ],
+    "interval": 16,
+    "gis": 552.18,
+    "allowance": 911.32
+  },
+  {
+    "range": [
+      4096,
+      4127.99
+    ],
+    "interval": 32,
+    "gis": 551.18,
+    "allowance": 910.32
+  },
+  {
+    "range": [
+      4128,
+      4175.99
+    ],
+    "interval": 48,
+    "gis": 551.18,
+    "allowance": 907.32
+  },
+  {
+    "range": [
+      4176,
+      4191.99
+    ],
+    "interval": 16,
+    "gis": 551.18,
+    "allowance": 904.32
+  },
+  {
+    "range": [
+      4192,
+      4223.99
+    ],
+    "interval": 32,
+    "gis": 550.18,
+    "allowance": 903.32
+  },
+  {
+    "range": [
+      4224,
+      4271.99
+    ],
+    "interval": 48,
+    "gis": 550.18,
+    "allowance": 900.32
+  },
+  {
+    "range": [
+      4272,
+      4287.99
+    ],
+    "interval": 16,
+    "gis": 550.18,
+    "allowance": 897.32
+  },
+  {
+    "range": [
+      4288,
+      4319.99
+    ],
+    "interval": 32,
+    "gis": 549.18,
+    "allowance": 896.32
+  },
+  {
+    "range": [
+      4320,
+      4367.99
+    ],
+    "interval": 48,
+    "gis": 549.18,
+    "allowance": 893.32
+  },
+  {
+    "range": [
+      4368,
+      4383.99
+    ],
+    "interval": 16,
+    "gis": 549.18,
+    "allowance": 890.32
+  },
+  {
+    "range": [
+      4384,
+      4415.99
+    ],
+    "interval": 32,
+    "gis": 548.18,
+    "allowance": 889.32
+  },
+  {
+    "range": [
+      4416,
+      4463.99
+    ],
+    "interval": 48,
+    "gis": 548.18,
+    "allowance": 886.32
+  },
+  {
+    "range": [
+      4464,
+      4479.99
+    ],
+    "interval": 16,
+    "gis": 548.18,
+    "allowance": 883.32
+  },
+  {
+    "range": [
+      4480,
+      4511.99
+    ],
+    "interval": 32,
+    "gis": 547.18,
+    "allowance": 882.32
+  },
+  {
+    "range": [
+      4512,
+      4559.99
+    ],
+    "interval": 48,
+    "gis": 547.18,
+    "allowance": 879.32
+  },
+  {
+    "range": [
+      4560,
+      4575.99
+    ],
+    "interval": 16,
+    "gis": 547.18,
+    "allowance": 876.32
+  },
+  {
+    "range": [
+      4576,
+      4607.99
+    ],
+    "interval": 32,
+    "gis": 546.18,
+    "allowance": 875.32
+  },
+  {
+    "range": [
+      4608,
+      4655.99
+    ],
+    "interval": 48,
+    "gis": 546.18,
+    "allowance": 872.32
+  },
+  {
+    "range": [
+      4656,
+      4671.99
+    ],
+    "interval": 16,
+    "gis": 546.18,
+    "allowance": 869.32
+  },
+  {
+    "range": [
+      4672,
+      4703.99
+    ],
+    "interval": 32,
+    "gis": 545.18,
+    "allowance": 868.32
+  },
+  {
+    "range": [
+      4704,
+      4751.99
+    ],
+    "interval": 48,
+    "gis": 545.18,
+    "allowance": 865.32
+  },
+  {
+    "range": [
+      4752,
+      4767.99
+    ],
+    "interval": 16,
+    "gis": 545.18,
+    "allowance": 862.32
+  },
+  {
+    "range": [
+      4768,
+      4799.99
+    ],
+    "interval": 32,
+    "gis": 544.18,
+    "allowance": 861.32
+  },
+  {
+    "range": [
+      4800,
+      4847.99
+    ],
+    "interval": 48,
+    "gis": 544.18,
+    "allowance": 858.32
+  },
+  {
+    "range": [
+      4848,
+      4863.99
+    ],
+    "interval": 16,
+    "gis": 544.18,
+    "allowance": 855.32
+  },
+  {
+    "range": [
+      4864,
+      4895.99
+    ],
+    "interval": 32,
+    "gis": 543.18,
+    "allowance": 854.32
+  },
+  {
+    "range": [
+      4896,
+      4943.99
+    ],
+    "interval": 48,
+    "gis": 543.18,
+    "allowance": 851.32
+  },
+  {
+    "range": [
+      4944,
+      4959.99
+    ],
+    "interval": 16,
+    "gis": 543.18,
+    "allowance": 848.32
+  },
+  {
+    "range": [
+      4960,
+      4991.99
+    ],
+    "interval": 32,
+    "gis": 542.18,
+    "allowance": 847.32
+  },
+  {
+    "range": [
+      4992,
+      5039.99
+    ],
+    "interval": 48,
+    "gis": 542.18,
+    "allowance": 844.32
+  },
+  {
+    "range": [
+      5040,
+      5055.99
+    ],
+    "interval": 16,
+    "gis": 542.18,
+    "allowance": 841.32
+  },
+  {
+    "range": [
+      5056,
+      5087.99
+    ],
+    "interval": 32,
+    "gis": 541.18,
+    "allowance": 840.32
+  },
+  {
+    "range": [
+      5088,
+      5135.99
+    ],
+    "interval": 48,
+    "gis": 541.18,
+    "allowance": 837.32
+  },
+  {
+    "range": [
+      5136,
+      5151.99
+    ],
+    "interval": 16,
+    "gis": 541.18,
+    "allowance": 834.32
+  },
+  {
+    "range": [
+      5152,
+      5183.99
+    ],
+    "interval": 32,
+    "gis": 540.18,
+    "allowance": 833.32
+  },
+  {
+    "range": [
+      5184,
+      5231.99
+    ],
+    "interval": 48,
+    "gis": 540.18,
+    "allowance": 830.32
+  },
+  {
+    "range": [
+      5232,
+      5247.99
+    ],
+    "interval": 16,
+    "gis": 540.18,
+    "allowance": 827.32
+  },
+  {
+    "range": [
+      5248,
+      5279.99
+    ],
+    "interval": 32,
+    "gis": 539.18,
+    "allowance": 826.32
+  },
+  {
+    "range": [
+      5280,
+      5327.99
+    ],
+    "interval": 48,
+    "gis": 539.18,
+    "allowance": 823.32
+  },
+  {
+    "range": [
+      5328,
+      5343.99
+    ],
+    "interval": 16,
+    "gis": 539.18,
+    "allowance": 820.32
+  },
+  {
+    "range": [
+      5344,
+      5375.99
+    ],
+    "interval": 32,
+    "gis": 538.18,
+    "allowance": 819.32
+  },
+  {
+    "range": [
+      5376,
+      5423.99
+    ],
+    "interval": 48,
+    "gis": 538.18,
+    "allowance": 816.32
+  },
+  {
+    "range": [
+      5424,
+      5439.99
+    ],
+    "interval": 16,
+    "gis": 538.18,
+    "allowance": 813.32
+  },
+  {
+    "range": [
+      5440,
+      5471.99
+    ],
+    "interval": 32,
+    "gis": 537.18,
+    "allowance": 812.32
+  },
+  {
+    "range": [
+      5472,
+      5519.99
+    ],
+    "interval": 48,
+    "gis": 537.18,
+    "allowance": 809.32
+  },
+  {
+    "range": [
+      5520,
+      5535.99
+    ],
+    "interval": 16,
+    "gis": 537.18,
+    "allowance": 806.32
+  },
+  {
+    "range": [
+      5536,
+      5567.99
+    ],
+    "interval": 32,
+    "gis": 536.18,
+    "allowance": 805.32
+  },
+  {
+    "range": [
+      5568,
+      5615.99
+    ],
+    "interval": 48,
+    "gis": 536.18,
+    "allowance": 802.32
+  },
+  {
+    "range": [
+      5616,
+      5631.99
+    ],
+    "interval": 16,
+    "gis": 536.18,
+    "allowance": 799.32
+  },
+  {
+    "range": [
+      5632,
+      5663.99
+    ],
+    "interval": 32,
+    "gis": 535.18,
+    "allowance": 798.32
+  },
+  {
+    "range": [
+      5664,
+      5711.99
+    ],
+    "interval": 48,
+    "gis": 535.18,
+    "allowance": 795.32
+  },
+  {
+    "range": [
+      5712,
+      5727.99
+    ],
+    "interval": 16,
+    "gis": 535.18,
+    "allowance": 792.32
+  },
+  {
+    "range": [
+      5728,
+      5759.99
+    ],
+    "interval": 32,
+    "gis": 534.18,
+    "allowance": 791.32
+  },
+  {
+    "range": [
+      5760,
+      5807.99
+    ],
+    "interval": 48,
+    "gis": 534.18,
+    "allowance": 788.32
+  },
+  {
+    "range": [
+      5808,
+      5823.99
+    ],
+    "interval": 16,
+    "gis": 534.18,
+    "allowance": 785.32
+  },
+  {
+    "range": [
+      5824,
+      5855.99
+    ],
+    "interval": 32,
+    "gis": 533.18,
+    "allowance": 784.32
+  },
+  {
+    "range": [
+      5856,
+      5903.99
+    ],
+    "interval": 48,
+    "gis": 533.18,
+    "allowance": 781.32
+  },
+  {
+    "range": [
+      5904,
+      5919.99
+    ],
+    "interval": 16,
+    "gis": 533.18,
+    "allowance": 778.32
+  },
+  {
+    "range": [
+      5920,
+      5951.99
+    ],
+    "interval": 32,
+    "gis": 532.18,
+    "allowance": 777.32
+  },
+  {
+    "range": [
+      5952,
+      5999.99
+    ],
+    "interval": 48,
+    "gis": 532.18,
+    "allowance": 774.32
+  },
+  {
+    "range": [
+      6000,
+      6015.99
+    ],
+    "interval": 16,
+    "gis": 532.18,
+    "allowance": 771.32
+  },
+  {
+    "range": [
+      6016,
+      6047.99
+    ],
+    "interval": 32,
+    "gis": 531.18,
+    "allowance": 770.32
+  },
+  {
+    "range": [
+      6048,
+      6095.99
+    ],
+    "interval": 48,
+    "gis": 531.18,
+    "allowance": 767.32
+  },
+  {
+    "range": [
+      6096,
+      6111.99
+    ],
+    "interval": 16,
+    "gis": 531.18,
+    "allowance": 764.32
+  },
+  {
+    "range": [
+      6112,
+      6143.99
+    ],
+    "interval": 32,
+    "gis": 530.18,
+    "allowance": 763.32
+  },
+  {
+    "range": [
+      6144,
+      6191.99
+    ],
+    "interval": 48,
+    "gis": 530.18,
+    "allowance": 760.32
+  },
+  {
+    "range": [
+      6192,
+      6207.99
+    ],
+    "interval": 16,
+    "gis": 530.18,
+    "allowance": 757.32
+  },
+  {
+    "range": [
+      6208,
+      6239.99
+    ],
+    "interval": 32,
+    "gis": 529.18,
+    "allowance": 756.32
+  },
+  {
+    "range": [
+      6240,
+      6287.99
+    ],
+    "interval": 48,
+    "gis": 529.18,
+    "allowance": 753.32
+  },
+  {
+    "range": [
+      6288,
+      6303.99
+    ],
+    "interval": 16,
+    "gis": 529.18,
+    "allowance": 750.32
+  },
+  {
+    "range": [
+      6304,
+      6335.99
+    ],
+    "interval": 32,
+    "gis": 528.18,
+    "allowance": 749.32
+  },
+  {
+    "range": [
+      6336,
+      6383.99
+    ],
+    "interval": 48,
+    "gis": 528.18,
+    "allowance": 746.32
+  },
+  {
+    "range": [
+      6384,
+      6399.99
+    ],
+    "interval": 16,
+    "gis": 528.18,
+    "allowance": 743.32
+  },
+  {
+    "range": [
+      6400,
+      6431.99
+    ],
+    "interval": 32,
+    "gis": 527.18,
+    "allowance": 742.32
+  },
+  {
+    "range": [
+      6432,
+      6479.99
+    ],
+    "interval": 48,
+    "gis": 527.18,
+    "allowance": 739.32
+  },
+  {
+    "range": [
+      6480,
+      6495.99
+    ],
+    "interval": 16,
+    "gis": 527.18,
+    "allowance": 736.32
+  },
+  {
+    "range": [
+      6496,
+      6527.99
+    ],
+    "interval": 32,
+    "gis": 526.18,
+    "allowance": 735.32
+  },
+  {
+    "range": [
+      6528,
+      6575.99
+    ],
+    "interval": 48,
+    "gis": 526.18,
+    "allowance": 732.32
+  },
+  {
+    "range": [
+      6576,
+      6591.99
+    ],
+    "interval": 16,
+    "gis": 526.18,
+    "allowance": 729.32
+  },
+  {
+    "range": [
+      6592,
+      6623.99
+    ],
+    "interval": 32,
+    "gis": 525.18,
+    "allowance": 728.32
+  },
+  {
+    "range": [
+      6624,
+      6671.99
+    ],
+    "interval": 48,
+    "gis": 525.18,
+    "allowance": 725.32
+  },
+  {
+    "range": [
+      6672,
+      6687.99
+    ],
+    "interval": 16,
+    "gis": 525.18,
+    "allowance": 722.32
+  },
+  {
+    "range": [
+      6688,
+      6719.99
+    ],
+    "interval": 32,
+    "gis": 524.18,
+    "allowance": 721.32
+  },
+  {
+    "range": [
+      6720,
+      6767.99
+    ],
+    "interval": 48,
+    "gis": 524.18,
+    "allowance": 718.32
+  },
+  {
+    "range": [
+      6768,
+      6783.99
+    ],
+    "interval": 16,
+    "gis": 524.18,
+    "allowance": 715.32
+  },
+  {
+    "range": [
+      6784,
+      6815.99
+    ],
+    "interval": 32,
+    "gis": 523.18,
+    "allowance": 714.32
+  },
+  {
+    "range": [
+      6816,
+      6863.99
+    ],
+    "interval": 48,
+    "gis": 523.18,
+    "allowance": 711.32
+  },
+  {
+    "range": [
+      6864,
+      6879.99
+    ],
+    "interval": 16,
+    "gis": 523.18,
+    "allowance": 708.32
+  },
+  {
+    "range": [
+      6880,
+      6911.99
+    ],
+    "interval": 32,
+    "gis": 522.18,
+    "allowance": 707.32
+  },
+  {
+    "range": [
+      6912,
+      6959.99
+    ],
+    "interval": 48,
+    "gis": 522.18,
+    "allowance": 704.32
+  },
+  {
+    "range": [
+      6960,
+      6975.99
+    ],
+    "interval": 16,
+    "gis": 522.18,
+    "allowance": 701.32
+  },
+  {
+    "range": [
+      6976,
+      7007.99
+    ],
+    "interval": 32,
+    "gis": 521.18,
+    "allowance": 700.32
+  },
+  {
+    "range": [
+      7008,
+      7055.99
+    ],
+    "interval": 48,
+    "gis": 521.18,
+    "allowance": 697.32
+  },
+  {
+    "range": [
+      7056,
+      7071.99
+    ],
+    "interval": 16,
+    "gis": 521.18,
+    "allowance": 694.32
+  },
+  {
+    "range": [
+      7072,
+      7103.99
+    ],
+    "interval": 32,
+    "gis": 520.18,
+    "allowance": 693.32
+  },
+  {
+    "range": [
+      7104,
+      7151.99
+    ],
+    "interval": 48,
+    "gis": 520.18,
+    "allowance": 690.32
+  },
+  {
+    "range": [
+      7152,
+      7167.99
+    ],
+    "interval": 16,
+    "gis": 520.18,
+    "allowance": 687.32
+  },
+  {
+    "range": [
+      7168,
+      7199.99
+    ],
+    "interval": 32,
+    "gis": 519.18,
+    "allowance": 686.32
+  },
+  {
+    "range": [
+      7200,
+      7247.99
+    ],
+    "interval": 48,
+    "gis": 519.18,
+    "allowance": 683.32
+  },
+  {
+    "range": [
+      7248,
+      7263.99
+    ],
+    "interval": 16,
+    "gis": 519.18,
+    "allowance": 680.32
+  },
+  {
+    "range": [
+      7264,
+      7295.99
+    ],
+    "interval": 32,
+    "gis": 518.18,
+    "allowance": 679.32
+  },
+  {
+    "range": [
+      7296,
+      7343.99
+    ],
+    "interval": 48,
+    "gis": 518.18,
+    "allowance": 676.32
+  },
+  {
+    "range": [
+      7344,
+      7359.99
+    ],
+    "interval": 16,
+    "gis": 518.18,
+    "allowance": 673.32
+  },
+  {
+    "range": [
+      7360,
+      7391.99
+    ],
+    "interval": 32,
+    "gis": 517.18,
+    "allowance": 672.32
+  },
+  {
+    "range": [
+      7392,
+      7439.99
+    ],
+    "interval": 48,
+    "gis": 517.18,
+    "allowance": 669.32
+  },
+  {
+    "range": [
+      7440,
+      7455.99
+    ],
+    "interval": 16,
+    "gis": 517.18,
+    "allowance": 666.32
+  },
+  {
+    "range": [
+      7456,
+      7487.99
+    ],
+    "interval": 32,
+    "gis": 516.18,
+    "allowance": 665.32
+  },
+  {
+    "range": [
+      7488,
+      7535.99
+    ],
+    "interval": 48,
+    "gis": 516.18,
+    "allowance": 662.32
+  },
+  {
+    "range": [
+      7536,
+      7551.99
+    ],
+    "interval": 16,
+    "gis": 516.18,
+    "allowance": 659.32
+  },
+  {
+    "range": [
+      7552,
+      7583.99
+    ],
+    "interval": 32,
+    "gis": 515.18,
+    "allowance": 658.32
+  },
+  {
+    "range": [
+      7584,
+      7631.99
+    ],
+    "interval": 48,
+    "gis": 515.18,
+    "allowance": 655.32
+  },
+  {
+    "range": [
+      7632,
+      7647.99
+    ],
+    "interval": 16,
+    "gis": 515.18,
+    "allowance": 652.32
+  },
+  {
+    "range": [
+      7648,
+      7679.99
+    ],
+    "interval": 32,
+    "gis": 514.18,
+    "allowance": 651.32
+  },
+  {
+    "range": [
+      7680,
+      7727.99
+    ],
+    "interval": 48,
+    "gis": 514.18,
+    "allowance": 648.32
+  },
+  {
+    "range": [
+      7728,
+      7743.99
+    ],
+    "interval": 16,
+    "gis": 514.18,
+    "allowance": 645.32
+  },
+  {
+    "range": [
+      7744,
+      7775.99
+    ],
+    "interval": 32,
+    "gis": 513.18,
+    "allowance": 644.32
+  },
+  {
+    "range": [
+      7776,
+      7823.99
+    ],
+    "interval": 48,
+    "gis": 513.18,
+    "allowance": 641.32
+  },
+  {
+    "range": [
+      7824,
+      7839.99
+    ],
+    "interval": 16,
+    "gis": 513.18,
+    "allowance": 638.32
+  },
+  {
+    "range": [
+      7840,
+      7871.99
+    ],
+    "interval": 32,
+    "gis": 512.18,
+    "allowance": 637.32
+  },
+  {
+    "range": [
+      7872,
+      7919.99
+    ],
+    "interval": 48,
+    "gis": 512.18,
+    "allowance": 634.32
+  },
+  {
+    "range": [
+      7920,
+      7935.99
+    ],
+    "interval": 16,
+    "gis": 512.18,
+    "allowance": 631.32
+  },
+  {
+    "range": [
+      7936,
+      7967.99
+    ],
+    "interval": 32,
+    "gis": 511.92,
+    "allowance": 631.06
+  },
+  {
+    "range": [
+      7968,
+      8015.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 628.06
+  },
+  {
+    "range": [
+      8016,
+      8063.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 625.06
+  },
+  {
+    "range": [
+      8064,
+      8111.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 622.06
+  },
+  {
+    "range": [
+      8112,
+      8159.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 619.06
+  },
+  {
+    "range": [
+      8160,
+      8207.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 616.06
+  },
+  {
+    "range": [
+      8208,
+      8255.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 613.06
+  },
+  {
+    "range": [
+      8256,
+      8303.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 610.06
+  },
+  {
+    "range": [
+      8304,
+      8351.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 607.06
+  },
+  {
+    "range": [
+      8352,
+      8399.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 604.06
+  },
+  {
+    "range": [
+      8400,
+      8447.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 601.06
+  },
+  {
+    "range": [
+      8448,
+      8495.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 598.06
+  },
+  {
+    "range": [
+      8496,
+      8543.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 595.06
+  },
+  {
+    "range": [
+      8544,
+      8591.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 592.06
+  },
+  {
+    "range": [
+      8592,
+      8639.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 589.06
+  },
+  {
+    "range": [
+      8640,
+      8687.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 586.06
+  },
+  {
+    "range": [
+      8688,
+      8735.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 583.06
+  },
+  {
+    "range": [
+      8736,
+      8783.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 580.06
+  },
+  {
+    "range": [
+      8784,
+      8831.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 577.06
+  },
+  {
+    "range": [
+      8832,
+      8879.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 574.06
+  },
+  {
+    "range": [
+      8880,
+      8927.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 571.06
+  },
+  {
+    "range": [
+      8928,
+      8975.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 568.06
+  },
+  {
+    "range": [
+      8976,
+      9023.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 565.06
+  },
+  {
+    "range": [
+      9024,
+      9071.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 562.06
+  },
+  {
+    "range": [
+      9072,
+      9119.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 559.06
+  },
+  {
+    "range": [
+      9120,
+      9167.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 556.06
+  },
+  {
+    "range": [
+      9168,
+      9215.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 553.06
+  },
+  {
+    "range": [
+      9216,
+      9263.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 550.06
+  },
+  {
+    "range": [
+      9264,
+      9311.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 547.06
+  },
+  {
+    "range": [
+      9312,
+      9359.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 544.06
+  },
+  {
+    "range": [
+      9360,
+      9407.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 541.06
+  },
+  {
+    "range": [
+      9408,
+      9455.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 538.06
+  },
+  {
+    "range": [
+      9456,
+      9503.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 535.06
+  },
+  {
+    "range": [
+      9504,
+      9551.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 532.06
+  },
+  {
+    "range": [
+      9552,
+      9599.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 529.06
+  },
+  {
+    "range": [
+      9600,
+      9647.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 526.06
+  },
+  {
+    "range": [
+      9648,
+      9695.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 523.06
+  },
+  {
+    "range": [
+      9696,
+      9743.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 520.06
+  },
+  {
+    "range": [
+      9744,
+      9791.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 517.06
+  },
+  {
+    "range": [
+      9792,
+      9839.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 514.06
+  },
+  {
+    "range": [
+      9840,
+      9887.99
+    ],
+    "interval": 48,
+    "gis": 511.92,
+    "allowance": 511.92
+  },
+  {
+    "range": [
+      9888,
+      9935.99
+    ],
+    "interval": 48,
+    "gis": 510.92,
+    "allowance": 510.92
+  },
+  {
+    "range": [
+      9936,
+      9983.99
+    ],
+    "interval": 48,
+    "gis": 509.92,
+    "allowance": 509.92
+  },
+  {
+    "range": [
+      9984,
+      10031.99
+    ],
+    "interval": 48,
+    "gis": 508.92,
+    "allowance": 508.92
+  },
+  {
+    "range": [
+      10032,
+      10079.99
+    ],
+    "interval": 48,
+    "gis": 507.92,
+    "allowance": 507.92
+  },
+  {
+    "range": [
+      10080,
+      10127.99
+    ],
+    "interval": 48,
+    "gis": 506.92,
+    "allowance": 506.92
+  },
+  {
+    "range": [
+      10128,
+      10175.99
+    ],
+    "interval": 48,
+    "gis": 505.92,
+    "allowance": 505.92
+  },
+  {
+    "range": [
+      10176,
+      10223.99
+    ],
+    "interval": 48,
+    "gis": 504.92,
+    "allowance": 504.92
+  },
+  {
+    "range": [
+      10224,
+      10271.99
+    ],
+    "interval": 48,
+    "gis": 503.92,
+    "allowance": 503.92
+  },
+  {
+    "range": [
+      10272,
+      10319.99
+    ],
+    "interval": 48,
+    "gis": 502.92,
+    "allowance": 502.92
+  },
+  {
+    "range": [
+      10320,
+      10367.99
+    ],
+    "interval": 48,
+    "gis": 501.92,
+    "allowance": 501.92
+  },
+  {
+    "range": [
+      10368,
+      10415.99
+    ],
+    "interval": 48,
+    "gis": 500.92,
+    "allowance": 500.92
+  },
+  {
+    "range": [
+      10416,
+      10463.99
+    ],
+    "interval": 48,
+    "gis": 499.92,
+    "allowance": 499.92
+  },
+  {
+    "range": [
+      10464,
+      10511.99
+    ],
+    "interval": 48,
+    "gis": 498.92,
+    "allowance": 498.92
+  },
+  {
+    "range": [
+      10512,
+      10559.99
+    ],
+    "interval": 48,
+    "gis": 497.92,
+    "allowance": 497.92
+  },
+  {
+    "range": [
+      10560,
+      10607.99
+    ],
+    "interval": 48,
+    "gis": 496.92,
+    "allowance": 496.92
+  },
+  {
+    "range": [
+      10608,
+      10655.99
+    ],
+    "interval": 48,
+    "gis": 495.92,
+    "allowance": 495.92
+  },
+  {
+    "range": [
+      10656,
+      10703.99
+    ],
+    "interval": 48,
+    "gis": 494.92,
+    "allowance": 494.92
+  },
+  {
+    "range": [
+      10704,
+      10751.99
+    ],
+    "interval": 48,
+    "gis": 493.92,
+    "allowance": 493.92
+  },
+  {
+    "range": [
+      10752,
+      10799.99
+    ],
+    "interval": 48,
+    "gis": 492.92,
+    "allowance": 492.92
+  },
+  {
+    "range": [
+      10800,
+      10847.99
+    ],
+    "interval": 48,
+    "gis": 491.92,
+    "allowance": 491.92
+  },
+  {
+    "range": [
+      10848,
+      10895.99
+    ],
+    "interval": 48,
+    "gis": 490.92,
+    "allowance": 490.92
+  },
+  {
+    "range": [
+      10896,
+      10943.99
+    ],
+    "interval": 48,
+    "gis": 489.92,
+    "allowance": 489.92
+  },
+  {
+    "range": [
+      10944,
+      10991.99
+    ],
+    "interval": 48,
+    "gis": 488.92,
+    "allowance": 488.92
+  },
+  {
+    "range": [
+      10992,
+      11039.99
+    ],
+    "interval": 48,
+    "gis": 487.92,
+    "allowance": 487.92
+  },
+  {
+    "range": [
+      11040,
+      11087.99
+    ],
+    "interval": 48,
+    "gis": 486.92,
+    "allowance": 486.92
+  },
+  {
+    "range": [
+      11088,
+      11135.99
+    ],
+    "interval": 48,
+    "gis": 485.92,
+    "allowance": 485.92
+  },
+  {
+    "range": [
+      11136,
+      11183.99
+    ],
+    "interval": 48,
+    "gis": 484.92,
+    "allowance": 484.92
+  },
+  {
+    "range": [
+      11184,
+      11231.99
+    ],
+    "interval": 48,
+    "gis": 483.92,
+    "allowance": 483.92
+  },
+  {
+    "range": [
+      11232,
+      11279.99
+    ],
+    "interval": 48,
+    "gis": 482.92,
+    "allowance": 482.92
+  },
+  {
+    "range": [
+      11280,
+      11327.99
+    ],
+    "interval": 48,
+    "gis": 481.92,
+    "allowance": 481.92
+  },
+  {
+    "range": [
+      11328,
+      11375.99
+    ],
+    "interval": 48,
+    "gis": 480.92,
+    "allowance": 480.92
+  },
+  {
+    "range": [
+      11376,
+      11423.99
+    ],
+    "interval": 48,
+    "gis": 479.92,
+    "allowance": 479.92
+  },
+  {
+    "range": [
+      11424,
+      11471.99
+    ],
+    "interval": 48,
+    "gis": 478.92,
+    "allowance": 478.92
+  },
+  {
+    "range": [
+      11472,
+      11519.99
+    ],
+    "interval": 48,
+    "gis": 477.92,
+    "allowance": 477.92
+  },
+  {
+    "range": [
+      11520,
+      11567.99
+    ],
+    "interval": 48,
+    "gis": 476.92,
+    "allowance": 476.92
+  },
+  {
+    "range": [
+      11568,
+      11615.99
+    ],
+    "interval": 48,
+    "gis": 475.92,
+    "allowance": 475.92
+  },
+  {
+    "range": [
+      11616,
+      11663.99
+    ],
+    "interval": 48,
+    "gis": 474.92,
+    "allowance": 474.92
+  },
+  {
+    "range": [
+      11664,
+      11711.99
+    ],
+    "interval": 48,
+    "gis": 473.92,
+    "allowance": 473.92
+  },
+  {
+    "range": [
+      11712,
+      11759.99
+    ],
+    "interval": 48,
+    "gis": 472.92,
+    "allowance": 472.92
+  },
+  {
+    "range": [
+      11760,
+      11807.99
+    ],
+    "interval": 48,
+    "gis": 471.92,
+    "allowance": 471.92
+  },
+  {
+    "range": [
+      11808,
+      11855.99
+    ],
+    "interval": 48,
+    "gis": 470.92,
+    "allowance": 470.92
+  },
+  {
+    "range": [
+      11856,
+      11903.99
+    ],
+    "interval": 48,
+    "gis": 469.92,
+    "allowance": 469.92
+  },
+  {
+    "range": [
+      11904,
+      11951.99
+    ],
+    "interval": 48,
+    "gis": 468.92,
+    "allowance": 468.92
+  },
+  {
+    "range": [
+      11952,
+      11999.99
+    ],
+    "interval": 48,
+    "gis": 467.92,
+    "allowance": 467.92
+  },
+  {
+    "range": [
+      12000,
+      12047.99
+    ],
+    "interval": 48,
+    "gis": 466.92,
+    "allowance": 466.92
+  },
+  {
+    "range": [
+      12048,
+      12095.99
+    ],
+    "interval": 48,
+    "gis": 465.92,
+    "allowance": 465.92
+  },
+  {
+    "range": [
+      12096,
+      12143.99
+    ],
+    "interval": 48,
+    "gis": 464.92,
+    "allowance": 464.92
+  },
+  {
+    "range": [
+      12144,
+      12191.99
+    ],
+    "interval": 48,
+    "gis": 463.92,
+    "allowance": 463.92
+  },
+  {
+    "range": [
+      12192,
+      12239.99
+    ],
+    "interval": 48,
+    "gis": 462.92,
+    "allowance": 462.92
+  },
+  {
+    "range": [
+      12240,
+      12287.99
+    ],
+    "interval": 48,
+    "gis": 461.92,
+    "allowance": 461.92
+  },
+  {
+    "range": [
+      12288,
+      12335.99
+    ],
+    "interval": 48,
+    "gis": 460.92,
+    "allowance": 460.92
+  },
+  {
+    "range": [
+      12336,
+      12383.99
+    ],
+    "interval": 48,
+    "gis": 459.92,
+    "allowance": 459.92
+  },
+  {
+    "range": [
+      12384,
+      12431.99
+    ],
+    "interval": 48,
+    "gis": 458.92,
+    "allowance": 458.92
+  },
+  {
+    "range": [
+      12432,
+      12479.99
+    ],
+    "interval": 48,
+    "gis": 457.92,
+    "allowance": 457.92
+  },
+  {
+    "range": [
+      12480,
+      12527.99
+    ],
+    "interval": 48,
+    "gis": 456.92,
+    "allowance": 456.92
+  },
+  {
+    "range": [
+      12528,
+      12575.99
+    ],
+    "interval": 48,
+    "gis": 455.92,
+    "allowance": 455.92
+  },
+  {
+    "range": [
+      12576,
+      12623.99
+    ],
+    "interval": 48,
+    "gis": 454.92,
+    "allowance": 454.92
+  },
+  {
+    "range": [
+      12624,
+      12671.99
+    ],
+    "interval": 48,
+    "gis": 453.92,
+    "allowance": 453.92
+  },
+  {
+    "range": [
+      12672,
+      12719.99
+    ],
+    "interval": 48,
+    "gis": 452.92,
+    "allowance": 452.92
+  },
+  {
+    "range": [
+      12720,
+      12767.99
+    ],
+    "interval": 48,
+    "gis": 451.92,
+    "allowance": 451.92
+  },
+  {
+    "range": [
+      12768,
+      12815.99
+    ],
+    "interval": 48,
+    "gis": 450.92,
+    "allowance": 450.92
+  },
+  {
+    "range": [
+      12816,
+      12863.99
+    ],
+    "interval": 48,
+    "gis": 449.92,
+    "allowance": 449.92
+  },
+  {
+    "range": [
+      12864,
+      12911.99
+    ],
+    "interval": 48,
+    "gis": 448.92,
+    "allowance": 448.92
+  },
+  {
+    "range": [
+      12912,
+      12959.99
+    ],
+    "interval": 48,
+    "gis": 447.92,
+    "allowance": 447.92
+  },
+  {
+    "range": [
+      12960,
+      13007.99
+    ],
+    "interval": 48,
+    "gis": 446.92,
+    "allowance": 446.92
+  },
+  {
+    "range": [
+      13008,
+      13055.99
+    ],
+    "interval": 48,
+    "gis": 445.92,
+    "allowance": 445.92
+  },
+  {
+    "range": [
+      13056,
+      13103.99
+    ],
+    "interval": 48,
+    "gis": 444.92,
+    "allowance": 444.92
+  },
+  {
+    "range": [
+      13104,
+      13151.99
+    ],
+    "interval": 48,
+    "gis": 443.92,
+    "allowance": 443.92
+  },
+  {
+    "range": [
+      13152,
+      13199.99
+    ],
+    "interval": 48,
+    "gis": 442.92,
+    "allowance": 442.92
+  },
+  {
+    "range": [
+      13200,
+      13247.99
+    ],
+    "interval": 48,
+    "gis": 441.92,
+    "allowance": 441.92
+  },
+  {
+    "range": [
+      13248,
+      13295.99
+    ],
+    "interval": 48,
+    "gis": 440.92,
+    "allowance": 440.92
+  },
+  {
+    "range": [
+      13296,
+      13343.99
+    ],
+    "interval": 48,
+    "gis": 439.92,
+    "allowance": 439.92
+  },
+  {
+    "range": [
+      13344,
+      13391.99
+    ],
+    "interval": 48,
+    "gis": 438.92,
+    "allowance": 438.92
+  },
+  {
+    "range": [
+      13392,
+      13439.99
+    ],
+    "interval": 48,
+    "gis": 437.92,
+    "allowance": 437.92
+  },
+  {
+    "range": [
+      13440,
+      13487.99
+    ],
+    "interval": 48,
+    "gis": 436.92,
+    "allowance": 436.92
+  },
+  {
+    "range": [
+      13488,
+      13535.99
+    ],
+    "interval": 48,
+    "gis": 435.92,
+    "allowance": 435.92
+  },
+  {
+    "range": [
+      13536,
+      13583.99
+    ],
+    "interval": 48,
+    "gis": 434.92,
+    "allowance": 434.92
+  },
+  {
+    "range": [
+      13584,
+      13631.99
+    ],
+    "interval": 48,
+    "gis": 433.92,
+    "allowance": 433.92
+  },
+  {
+    "range": [
+      13632,
+      13679.99
+    ],
+    "interval": 48,
+    "gis": 432.92,
+    "allowance": 432.92
+  },
+  {
+    "range": [
+      13680,
+      13727.99
+    ],
+    "interval": 48,
+    "gis": 431.92,
+    "allowance": 431.92
+  },
+  {
+    "range": [
+      13728,
+      13775.99
+    ],
+    "interval": 48,
+    "gis": 430.92,
+    "allowance": 430.92
+  },
+  {
+    "range": [
+      13776,
+      13823.99
+    ],
+    "interval": 48,
+    "gis": 429.92,
+    "allowance": 429.92
+  },
+  {
+    "range": [
+      13824,
+      13871.99
+    ],
+    "interval": 48,
+    "gis": 428.92,
+    "allowance": 428.92
+  },
+  {
+    "range": [
+      13872,
+      13919.99
+    ],
+    "interval": 48,
+    "gis": 427.92,
+    "allowance": 427.92
+  },
+  {
+    "range": [
+      13920,
+      13967.99
+    ],
+    "interval": 48,
+    "gis": 426.92,
+    "allowance": 426.92
+  },
+  {
+    "range": [
+      13968,
+      14015.99
+    ],
+    "interval": 48,
+    "gis": 425.92,
+    "allowance": 425.92
+  },
+  {
+    "range": [
+      14016,
+      14063.99
+    ],
+    "interval": 48,
+    "gis": 424.92,
+    "allowance": 424.92
+  },
+  {
+    "range": [
+      14064,
+      14111.99
+    ],
+    "interval": 48,
+    "gis": 423.92,
+    "allowance": 423.92
+  },
+  {
+    "range": [
+      14112,
+      14159.99
+    ],
+    "interval": 48,
+    "gis": 422.92,
+    "allowance": 422.92
+  },
+  {
+    "range": [
+      14160,
+      14207.99
+    ],
+    "interval": 48,
+    "gis": 421.92,
+    "allowance": 421.92
+  },
+  {
+    "range": [
+      14208,
+      14255.99
+    ],
+    "interval": 48,
+    "gis": 420.92,
+    "allowance": 420.92
+  },
+  {
+    "range": [
+      14256,
+      14303.99
+    ],
+    "interval": 48,
+    "gis": 419.92,
+    "allowance": 419.92
+  },
+  {
+    "range": [
+      14304,
+      14351.99
+    ],
+    "interval": 48,
+    "gis": 418.92,
+    "allowance": 418.92
+  },
+  {
+    "range": [
+      14352,
+      14399.99
+    ],
+    "interval": 48,
+    "gis": 417.92,
+    "allowance": 417.92
+  },
+  {
+    "range": [
+      14400,
+      14447.99
+    ],
+    "interval": 48,
+    "gis": 416.92,
+    "allowance": 416.92
+  },
+  {
+    "range": [
+      14448,
+      14495.99
+    ],
+    "interval": 48,
+    "gis": 415.92,
+    "allowance": 415.92
+  },
+  {
+    "range": [
+      14496,
+      14543.99
+    ],
+    "interval": 48,
+    "gis": 414.92,
+    "allowance": 414.92
+  },
+  {
+    "range": [
+      14544,
+      14591.99
+    ],
+    "interval": 48,
+    "gis": 413.92,
+    "allowance": 413.92
+  },
+  {
+    "range": [
+      14592,
+      14639.99
+    ],
+    "interval": 48,
+    "gis": 412.92,
+    "allowance": 412.92
+  },
+  {
+    "range": [
+      14640,
+      14687.99
+    ],
+    "interval": 48,
+    "gis": 411.92,
+    "allowance": 411.92
+  },
+  {
+    "range": [
+      14688,
+      14735.99
+    ],
+    "interval": 48,
+    "gis": 410.92,
+    "allowance": 410.92
+  },
+  {
+    "range": [
+      14736,
+      14783.99
+    ],
+    "interval": 48,
+    "gis": 409.92,
+    "allowance": 409.92
+  },
+  {
+    "range": [
+      14784,
+      14831.99
+    ],
+    "interval": 48,
+    "gis": 408.92,
+    "allowance": 408.92
+  },
+  {
+    "range": [
+      14832,
+      14879.99
+    ],
+    "interval": 48,
+    "gis": 407.92,
+    "allowance": 407.92
+  },
+  {
+    "range": [
+      14880,
+      14927.99
+    ],
+    "interval": 48,
+    "gis": 406.92,
+    "allowance": 406.92
+  },
+  {
+    "range": [
+      14928,
+      14975.99
+    ],
+    "interval": 48,
+    "gis": 405.92,
+    "allowance": 405.92
+  },
+  {
+    "range": [
+      14976,
+      15023.99
+    ],
+    "interval": 48,
+    "gis": 404.92,
+    "allowance": 404.92
+  },
+  {
+    "range": [
+      15024,
+      15071.99
+    ],
+    "interval": 48,
+    "gis": 403.92,
+    "allowance": 403.92
+  },
+  {
+    "range": [
+      15072,
+      15119.99
+    ],
+    "interval": 48,
+    "gis": 402.92,
+    "allowance": 402.92
+  },
+  {
+    "range": [
+      15120,
+      15167.99
+    ],
+    "interval": 48,
+    "gis": 401.92,
+    "allowance": 401.92
+  },
+  {
+    "range": [
+      15168,
+      15215.99
+    ],
+    "interval": 48,
+    "gis": 400.92,
+    "allowance": 400.92
+  },
+  {
+    "range": [
+      15216,
+      15263.99
+    ],
+    "interval": 48,
+    "gis": 399.92,
+    "allowance": 399.92
+  },
+  {
+    "range": [
+      15264,
+      15311.99
+    ],
+    "interval": 48,
+    "gis": 398.92,
+    "allowance": 398.92
+  },
+  {
+    "range": [
+      15312,
+      15359.99
+    ],
+    "interval": 48,
+    "gis": 397.92,
+    "allowance": 397.92
+  },
+  {
+    "range": [
+      15360,
+      15407.99
+    ],
+    "interval": 48,
+    "gis": 396.92,
+    "allowance": 396.92
+  },
+  {
+    "range": [
+      15408,
+      15455.99
+    ],
+    "interval": 48,
+    "gis": 395.92,
+    "allowance": 395.92
+  },
+  {
+    "range": [
+      15456,
+      15503.99
+    ],
+    "interval": 48,
+    "gis": 394.92,
+    "allowance": 394.92
+  },
+  {
+    "range": [
+      15504,
+      15551.99
+    ],
+    "interval": 48,
+    "gis": 393.92,
+    "allowance": 393.92
+  },
+  {
+    "range": [
+      15552,
+      15599.99
+    ],
+    "interval": 48,
+    "gis": 392.92,
+    "allowance": 392.92
+  },
+  {
+    "range": [
+      15600,
+      15647.99
+    ],
+    "interval": 48,
+    "gis": 391.92,
+    "allowance": 391.92
+  },
+  {
+    "range": [
+      15648,
+      15695.99
+    ],
+    "interval": 48,
+    "gis": 390.92,
+    "allowance": 390.92
+  },
+  {
+    "range": [
+      15696,
+      15743.99
+    ],
+    "interval": 48,
+    "gis": 389.92,
+    "allowance": 389.92
+  },
+  {
+    "range": [
+      15744,
+      15791.99
+    ],
+    "interval": 48,
+    "gis": 388.92,
+    "allowance": 388.92
+  },
+  {
+    "range": [
+      15792,
+      15839.99
+    ],
+    "interval": 48,
+    "gis": 387.92,
+    "allowance": 387.92
+  },
+  {
+    "range": [
+      15840,
+      15887.99
+    ],
+    "interval": 48,
+    "gis": 386.92,
+    "allowance": 386.92
+  },
+  {
+    "range": [
+      15888,
+      15935.99
+    ],
+    "interval": 48,
+    "gis": 385.92,
+    "allowance": 385.92
+  },
+  {
+    "range": [
+      15936,
+      15983.99
+    ],
+    "interval": 48,
+    "gis": 384.92,
+    "allowance": 384.92
+  },
+  {
+    "range": [
+      15984,
+      16031.99
+    ],
+    "interval": 48,
+    "gis": 383.92,
+    "allowance": 383.92
+  },
+  {
+    "range": [
+      16032,
+      16079.99
+    ],
+    "interval": 48,
+    "gis": 382.92,
+    "allowance": 382.92
+  },
+  {
+    "range": [
+      16080,
+      16127.99
+    ],
+    "interval": 48,
+    "gis": 381.92,
+    "allowance": 381.92
+  },
+  {
+    "range": [
+      16128,
+      16175.99
+    ],
+    "interval": 48,
+    "gis": 380.92,
+    "allowance": 380.92
+  },
+  {
+    "range": [
+      16176,
+      16223.99
+    ],
+    "interval": 48,
+    "gis": 379.92,
+    "allowance": 379.92
+  },
+  {
+    "range": [
+      16224,
+      16271.99
+    ],
+    "interval": 48,
+    "gis": 378.92,
+    "allowance": 378.92
+  },
+  {
+    "range": [
+      16272,
+      16319.99
+    ],
+    "interval": 48,
+    "gis": 377.92,
+    "allowance": 377.92
+  },
+  {
+    "range": [
+      16320,
+      16367.99
+    ],
+    "interval": 48,
+    "gis": 376.92,
+    "allowance": 376.92
+  },
+  {
+    "range": [
+      16368,
+      16415.99
+    ],
+    "interval": 48,
+    "gis": 375.92,
+    "allowance": 375.92
+  },
+  {
+    "range": [
+      16416,
+      16463.99
+    ],
+    "interval": 48,
+    "gis": 374.92,
+    "allowance": 374.92
+  },
+  {
+    "range": [
+      16464,
+      16511.99
+    ],
+    "interval": 48,
+    "gis": 373.92,
+    "allowance": 373.92
+  },
+  {
+    "range": [
+      16512,
+      16559.99
+    ],
+    "interval": 48,
+    "gis": 372.92,
+    "allowance": 372.92
+  },
+  {
+    "range": [
+      16560,
+      16607.99
+    ],
+    "interval": 48,
+    "gis": 371.92,
+    "allowance": 371.92
+  },
+  {
+    "range": [
+      16608,
+      16655.99
+    ],
+    "interval": 48,
+    "gis": 370.92,
+    "allowance": 370.92
+  },
+  {
+    "range": [
+      16656,
+      16703.99
+    ],
+    "interval": 48,
+    "gis": 369.92,
+    "allowance": 369.92
+  },
+  {
+    "range": [
+      16704,
+      16751.99
+    ],
+    "interval": 48,
+    "gis": 368.92,
+    "allowance": 368.92
+  },
+  {
+    "range": [
+      16752,
+      16799.99
+    ],
+    "interval": 48,
+    "gis": 367.92,
+    "allowance": 367.92
+  },
+  {
+    "range": [
+      16800,
+      16847.99
+    ],
+    "interval": 48,
+    "gis": 366.92,
+    "allowance": 366.92
+  },
+  {
+    "range": [
+      16848,
+      16895.99
+    ],
+    "interval": 48,
+    "gis": 365.92,
+    "allowance": 365.92
+  },
+  {
+    "range": [
+      16896,
+      16943.99
+    ],
+    "interval": 48,
+    "gis": 364.92,
+    "allowance": 364.92
+  },
+  {
+    "range": [
+      16944,
+      16991.99
+    ],
+    "interval": 48,
+    "gis": 363.92,
+    "allowance": 363.92
+  },
+  {
+    "range": [
+      16992,
+      17039.99
+    ],
+    "interval": 48,
+    "gis": 362.92,
+    "allowance": 362.92
+  },
+  {
+    "range": [
+      17040,
+      17087.99
+    ],
+    "interval": 48,
+    "gis": 361.92,
+    "allowance": 361.92
+  },
+  {
+    "range": [
+      17088,
+      17135.99
+    ],
+    "interval": 48,
+    "gis": 360.92,
+    "allowance": 360.92
+  },
+  {
+    "range": [
+      17136,
+      17183.99
+    ],
+    "interval": 48,
+    "gis": 359.92,
+    "allowance": 359.92
+  },
+  {
+    "range": [
+      17184,
+      17231.99
+    ],
+    "interval": 48,
+    "gis": 358.92,
+    "allowance": 358.92
+  },
+  {
+    "range": [
+      17232,
+      17279.99
+    ],
+    "interval": 48,
+    "gis": 357.92,
+    "allowance": 357.92
+  },
+  {
+    "range": [
+      17280,
+      17327.99
+    ],
+    "interval": 48,
+    "gis": 356.92,
+    "allowance": 356.92
+  },
+  {
+    "range": [
+      17328,
+      17375.99
+    ],
+    "interval": 48,
+    "gis": 355.92,
+    "allowance": 355.92
+  },
+  {
+    "range": [
+      17376,
+      17423.99
+    ],
+    "interval": 48,
+    "gis": 354.92,
+    "allowance": 354.92
+  },
+  {
+    "range": [
+      17424,
+      17471.99
+    ],
+    "interval": 48,
+    "gis": 353.92,
+    "allowance": 353.92
+  },
+  {
+    "range": [
+      17472,
+      17519.99
+    ],
+    "interval": 48,
+    "gis": 352.92,
+    "allowance": 352.92
+  },
+  {
+    "range": [
+      17520,
+      17567.99
+    ],
+    "interval": 48,
+    "gis": 351.92,
+    "allowance": 351.92
+  },
+  {
+    "range": [
+      17568,
+      17615.99
+    ],
+    "interval": 48,
+    "gis": 350.92,
+    "allowance": 350.92
+  },
+  {
+    "range": [
+      17616,
+      17663.99
+    ],
+    "interval": 48,
+    "gis": 349.92,
+    "allowance": 349.92
+  },
+  {
+    "range": [
+      17664,
+      17711.99
+    ],
+    "interval": 48,
+    "gis": 348.92,
+    "allowance": 348.92
+  },
+  {
+    "range": [
+      17712,
+      17759.99
+    ],
+    "interval": 48,
+    "gis": 347.92,
+    "allowance": 347.92
+  },
+  {
+    "range": [
+      17760,
+      17807.99
+    ],
+    "interval": 48,
+    "gis": 346.92,
+    "allowance": 346.92
+  },
+  {
+    "range": [
+      17808,
+      17855.99
+    ],
+    "interval": 48,
+    "gis": 345.92,
+    "allowance": 345.92
+  },
+  {
+    "range": [
+      17856,
+      17903.99
+    ],
+    "interval": 48,
+    "gis": 344.92,
+    "allowance": 344.92
+  },
+  {
+    "range": [
+      17904,
+      17951.99
+    ],
+    "interval": 48,
+    "gis": 343.92,
+    "allowance": 343.92
+  },
+  {
+    "range": [
+      17952,
+      17999.99
+    ],
+    "interval": 48,
+    "gis": 342.92,
+    "allowance": 342.92
+  },
+  {
+    "range": [
+      18000,
+      18047.99
+    ],
+    "interval": 48,
+    "gis": 341.92,
+    "allowance": 341.92
+  },
+  {
+    "range": [
+      18048,
+      18095.99
+    ],
+    "interval": 48,
+    "gis": 340.92,
+    "allowance": 340.92
+  },
+  {
+    "range": [
+      18096,
+      18143.99
+    ],
+    "interval": 48,
+    "gis": 339.92,
+    "allowance": 339.92
+  },
+  {
+    "range": [
+      18144,
+      18191.99
+    ],
+    "interval": 48,
+    "gis": 338.92,
+    "allowance": 338.92
+  },
+  {
+    "range": [
+      18192,
+      18239.99
+    ],
+    "interval": 48,
+    "gis": 337.92,
+    "allowance": 337.92
+  },
+  {
+    "range": [
+      18240,
+      18287.99
+    ],
+    "interval": 48,
+    "gis": 336.92,
+    "allowance": 336.92
+  },
+  {
+    "range": [
+      18288,
+      18335.99
+    ],
+    "interval": 48,
+    "gis": 335.92,
+    "allowance": 335.92
+  },
+  {
+    "range": [
+      18336,
+      18383.99
+    ],
+    "interval": 48,
+    "gis": 334.92,
+    "allowance": 334.92
+  },
+  {
+    "range": [
+      18384,
+      18431.99
+    ],
+    "interval": 48,
+    "gis": 333.92,
+    "allowance": 333.92
+  },
+  {
+    "range": [
+      18432,
+      18479.99
+    ],
+    "interval": 48,
+    "gis": 332.92,
+    "allowance": 332.92
+  },
+  {
+    "range": [
+      18480,
+      18527.99
+    ],
+    "interval": 48,
+    "gis": 331.92,
+    "allowance": 331.92
+  },
+  {
+    "range": [
+      18528,
+      18575.99
+    ],
+    "interval": 48,
+    "gis": 330.92,
+    "allowance": 330.92
+  },
+  {
+    "range": [
+      18576,
+      18623.99
+    ],
+    "interval": 48,
+    "gis": 329.92,
+    "allowance": 329.92
+  },
+  {
+    "range": [
+      18624,
+      18671.99
+    ],
+    "interval": 48,
+    "gis": 328.92,
+    "allowance": 328.92
+  },
+  {
+    "range": [
+      18672,
+      18719.99
+    ],
+    "interval": 48,
+    "gis": 327.92,
+    "allowance": 327.92
+  },
+  {
+    "range": [
+      18720,
+      18767.99
+    ],
+    "interval": 48,
+    "gis": 326.92,
+    "allowance": 326.92
+  },
+  {
+    "range": [
+      18768,
+      18815.99
+    ],
+    "interval": 48,
+    "gis": 325.92,
+    "allowance": 325.92
+  },
+  {
+    "range": [
+      18816,
+      18863.99
+    ],
+    "interval": 48,
+    "gis": 324.92,
+    "allowance": 324.92
+  },
+  {
+    "range": [
+      18864,
+      18911.99
+    ],
+    "interval": 48,
+    "gis": 323.92,
+    "allowance": 323.92
+  },
+  {
+    "range": [
+      18912,
+      18959.99
+    ],
+    "interval": 48,
+    "gis": 322.92,
+    "allowance": 322.92
+  },
+  {
+    "range": [
+      18960,
+      19007.99
+    ],
+    "interval": 48,
+    "gis": 321.92,
+    "allowance": 321.92
+  },
+  {
+    "range": [
+      19008,
+      19055.99
+    ],
+    "interval": 48,
+    "gis": 320.92,
+    "allowance": 320.92
+  },
+  {
+    "range": [
+      19056,
+      19103.99
+    ],
+    "interval": 48,
+    "gis": 319.92,
+    "allowance": 319.92
+  },
+  {
+    "range": [
+      19104,
+      19151.99
+    ],
+    "interval": 48,
+    "gis": 318.92,
+    "allowance": 318.92
+  },
+  {
+    "range": [
+      19152,
+      19199.99
+    ],
+    "interval": 48,
+    "gis": 317.92,
+    "allowance": 317.92
+  },
+  {
+    "range": [
+      19200,
+      19247.99
+    ],
+    "interval": 48,
+    "gis": 316.92,
+    "allowance": 316.92
+  },
+  {
+    "range": [
+      19248,
+      19295.99
+    ],
+    "interval": 48,
+    "gis": 315.92,
+    "allowance": 315.92
+  },
+  {
+    "range": [
+      19296,
+      19343.99
+    ],
+    "interval": 48,
+    "gis": 314.92,
+    "allowance": 314.92
+  },
+  {
+    "range": [
+      19344,
+      19391.99
+    ],
+    "interval": 48,
+    "gis": 313.92,
+    "allowance": 313.92
+  },
+  {
+    "range": [
+      19392,
+      19439.99
+    ],
+    "interval": 48,
+    "gis": 312.92,
+    "allowance": 312.92
+  },
+  {
+    "range": [
+      19440,
+      19487.99
+    ],
+    "interval": 48,
+    "gis": 311.92,
+    "allowance": 311.92
+  },
+  {
+    "range": [
+      19488,
+      19535.99
+    ],
+    "interval": 48,
+    "gis": 310.92,
+    "allowance": 310.92
+  },
+  {
+    "range": [
+      19536,
+      19583.99
+    ],
+    "interval": 48,
+    "gis": 309.92,
+    "allowance": 309.92
+  },
+  {
+    "range": [
+      19584,
+      19631.99
+    ],
+    "interval": 48,
+    "gis": 308.92,
+    "allowance": 308.92
+  },
+  {
+    "range": [
+      19632,
+      19679.99
+    ],
+    "interval": 48,
+    "gis": 307.92,
+    "allowance": 307.92
+  },
+  {
+    "range": [
+      19680,
+      19727.99
+    ],
+    "interval": 48,
+    "gis": 306.92,
+    "allowance": 306.92
+  },
+  {
+    "range": [
+      19728,
+      19775.99
+    ],
+    "interval": 48,
+    "gis": 305.92,
+    "allowance": 305.92
+  },
+  {
+    "range": [
+      19776,
+      19823.99
+    ],
+    "interval": 48,
+    "gis": 304.92,
+    "allowance": 304.92
+  },
+  {
+    "range": [
+      19824,
+      19871.99
+    ],
+    "interval": 48,
+    "gis": 303.92,
+    "allowance": 303.92
+  },
+  {
+    "range": [
+      19872,
+      19919.99
+    ],
+    "interval": 48,
+    "gis": 302.92,
+    "allowance": 302.92
+  },
+  {
+    "range": [
+      19920,
+      19967.99
+    ],
+    "interval": 48,
+    "gis": 301.92,
+    "allowance": 301.92
+  },
+  {
+    "range": [
+      19968,
+      20015.99
+    ],
+    "interval": 48,
+    "gis": 300.92,
+    "allowance": 300.92
+  },
+  {
+    "range": [
+      20016,
+      20063.99
+    ],
+    "interval": 48,
+    "gis": 299.92,
+    "allowance": 299.92
+  },
+  {
+    "range": [
+      20064,
+      20111.99
+    ],
+    "interval": 48,
+    "gis": 298.92,
+    "allowance": 298.92
+  },
+  {
+    "range": [
+      20112,
+      20159.99
+    ],
+    "interval": 48,
+    "gis": 297.92,
+    "allowance": 297.92
+  },
+  {
+    "range": [
+      20160,
+      20207.99
+    ],
+    "interval": 48,
+    "gis": 296.92,
+    "allowance": 296.92
+  },
+  {
+    "range": [
+      20208,
+      20255.99
+    ],
+    "interval": 48,
+    "gis": 295.92,
+    "allowance": 295.92
+  },
+  {
+    "range": [
+      20256,
+      20303.99
+    ],
+    "interval": 48,
+    "gis": 294.92,
+    "allowance": 294.92
+  },
+  {
+    "range": [
+      20304,
+      20351.99
+    ],
+    "interval": 48,
+    "gis": 293.92,
+    "allowance": 293.92
+  },
+  {
+    "range": [
+      20352,
+      20399.99
+    ],
+    "interval": 48,
+    "gis": 292.92,
+    "allowance": 292.92
+  },
+  {
+    "range": [
+      20400,
+      20447.99
+    ],
+    "interval": 48,
+    "gis": 291.92,
+    "allowance": 291.92
+  },
+  {
+    "range": [
+      20448,
+      20495.99
+    ],
+    "interval": 48,
+    "gis": 290.92,
+    "allowance": 290.92
+  },
+  {
+    "range": [
+      20496,
+      20543.99
+    ],
+    "interval": 48,
+    "gis": 289.92,
+    "allowance": 289.92
+  },
+  {
+    "range": [
+      20544,
+      20591.99
+    ],
+    "interval": 48,
+    "gis": 288.92,
+    "allowance": 288.92
+  },
+  {
+    "range": [
+      20592,
+      20639.99
+    ],
+    "interval": 48,
+    "gis": 287.92,
+    "allowance": 287.92
+  },
+  {
+    "range": [
+      20640,
+      20687.99
+    ],
+    "interval": 48,
+    "gis": 286.92,
+    "allowance": 286.92
+  },
+  {
+    "range": [
+      20688,
+      20735.99
+    ],
+    "interval": 48,
+    "gis": 285.92,
+    "allowance": 285.92
+  },
+  {
+    "range": [
+      20736,
+      20783.99
+    ],
+    "interval": 48,
+    "gis": 284.92,
+    "allowance": 284.92
+  },
+  {
+    "range": [
+      20784,
+      20831.99
+    ],
+    "interval": 48,
+    "gis": 283.92,
+    "allowance": 283.92
+  },
+  {
+    "range": [
+      20832,
+      20879.99
+    ],
+    "interval": 48,
+    "gis": 282.92,
+    "allowance": 282.92
+  },
+  {
+    "range": [
+      20880,
+      20927.99
+    ],
+    "interval": 48,
+    "gis": 281.92,
+    "allowance": 281.92
+  },
+  {
+    "range": [
+      20928,
+      20975.99
+    ],
+    "interval": 48,
+    "gis": 280.92,
+    "allowance": 280.92
+  },
+  {
+    "range": [
+      20976,
+      21023.99
+    ],
+    "interval": 48,
+    "gis": 279.92,
+    "allowance": 279.92
+  },
+  {
+    "range": [
+      21024,
+      21071.99
+    ],
+    "interval": 48,
+    "gis": 278.92,
+    "allowance": 278.92
+  },
+  {
+    "range": [
+      21072,
+      21119.99
+    ],
+    "interval": 48,
+    "gis": 277.92,
+    "allowance": 277.92
+  },
+  {
+    "range": [
+      21120,
+      21167.99
+    ],
+    "interval": 48,
+    "gis": 276.92,
+    "allowance": 276.92
+  },
+  {
+    "range": [
+      21168,
+      21215.99
+    ],
+    "interval": 48,
+    "gis": 275.92,
+    "allowance": 275.92
+  },
+  {
+    "range": [
+      21216,
+      21263.99
+    ],
+    "interval": 48,
+    "gis": 274.92,
+    "allowance": 274.92
+  },
+  {
+    "range": [
+      21264,
+      21311.99
+    ],
+    "interval": 48,
+    "gis": 273.92,
+    "allowance": 273.92
+  },
+  {
+    "range": [
+      21312,
+      21359.99
+    ],
+    "interval": 48,
+    "gis": 272.92,
+    "allowance": 272.92
+  },
+  {
+    "range": [
+      21360,
+      21407.99
+    ],
+    "interval": 48,
+    "gis": 271.92,
+    "allowance": 271.92
+  },
+  {
+    "range": [
+      21408,
+      21455.99
+    ],
+    "interval": 48,
+    "gis": 270.92,
+    "allowance": 270.92
+  },
+  {
+    "range": [
+      21456,
+      21503.99
+    ],
+    "interval": 48,
+    "gis": 269.92,
+    "allowance": 269.92
+  },
+  {
+    "range": [
+      21504,
+      21551.99
+    ],
+    "interval": 48,
+    "gis": 268.92,
+    "allowance": 268.92
+  },
+  {
+    "range": [
+      21552,
+      21599.99
+    ],
+    "interval": 48,
+    "gis": 267.92,
+    "allowance": 267.92
+  },
+  {
+    "range": [
+      21600,
+      21647.99
+    ],
+    "interval": 48,
+    "gis": 266.92,
+    "allowance": 266.92
+  },
+  {
+    "range": [
+      21648,
+      21695.99
+    ],
+    "interval": 48,
+    "gis": 265.92,
+    "allowance": 265.92
+  },
+  {
+    "range": [
+      21696,
+      21743.99
+    ],
+    "interval": 48,
+    "gis": 264.92,
+    "allowance": 264.92
+  },
+  {
+    "range": [
+      21744,
+      21791.99
+    ],
+    "interval": 48,
+    "gis": 263.92,
+    "allowance": 263.92
+  },
+  {
+    "range": [
+      21792,
+      21839.99
+    ],
+    "interval": 48,
+    "gis": 262.92,
+    "allowance": 262.92
+  },
+  {
+    "range": [
+      21840,
+      21887.99
+    ],
+    "interval": 48,
+    "gis": 261.92,
+    "allowance": 261.92
+  },
+  {
+    "range": [
+      21888,
+      21935.99
+    ],
+    "interval": 48,
+    "gis": 260.92,
+    "allowance": 260.92
+  },
+  {
+    "range": [
+      21936,
+      21983.99
+    ],
+    "interval": 48,
+    "gis": 259.92,
+    "allowance": 259.92
+  },
+  {
+    "range": [
+      21984,
+      22031.99
+    ],
+    "interval": 48,
+    "gis": 258.92,
+    "allowance": 258.92
+  },
+  {
+    "range": [
+      22032,
+      22079.99
+    ],
+    "interval": 48,
+    "gis": 257.92,
+    "allowance": 257.92
+  },
+  {
+    "range": [
+      22080,
+      22127.99
+    ],
+    "interval": 48,
+    "gis": 256.92,
+    "allowance": 256.92
+  },
+  {
+    "range": [
+      22128,
+      22175.99
+    ],
+    "interval": 48,
+    "gis": 255.92,
+    "allowance": 255.92
+  },
+  {
+    "range": [
+      22176,
+      22223.99
+    ],
+    "interval": 48,
+    "gis": 254.92,
+    "allowance": 254.92
+  },
+  {
+    "range": [
+      22224,
+      22271.99
+    ],
+    "interval": 48,
+    "gis": 253.92,
+    "allowance": 253.92
+  },
+  {
+    "range": [
+      22272,
+      22319.99
+    ],
+    "interval": 48,
+    "gis": 252.92,
+    "allowance": 252.92
+  },
+  {
+    "range": [
+      22320,
+      22367.99
+    ],
+    "interval": 48,
+    "gis": 251.92,
+    "allowance": 251.92
+  },
+  {
+    "range": [
+      22368,
+      22415.99
+    ],
+    "interval": 48,
+    "gis": 250.92,
+    "allowance": 250.92
+  },
+  {
+    "range": [
+      22416,
+      22463.99
+    ],
+    "interval": 48,
+    "gis": 249.92,
+    "allowance": 249.92
+  },
+  {
+    "range": [
+      22464,
+      22511.99
+    ],
+    "interval": 48,
+    "gis": 248.92,
+    "allowance": 248.92
+  },
+  {
+    "range": [
+      22512,
+      22559.99
+    ],
+    "interval": 48,
+    "gis": 247.92,
+    "allowance": 247.92
+  },
+  {
+    "range": [
+      22560,
+      22607.99
+    ],
+    "interval": 48,
+    "gis": 246.92,
+    "allowance": 246.92
+  },
+  {
+    "range": [
+      22608,
+      22655.99
+    ],
+    "interval": 48,
+    "gis": 245.92,
+    "allowance": 245.92
+  },
+  {
+    "range": [
+      22656,
+      22703.99
+    ],
+    "interval": 48,
+    "gis": 244.92,
+    "allowance": 244.92
+  },
+  {
+    "range": [
+      22704,
+      22751.99
+    ],
+    "interval": 48,
+    "gis": 243.92,
+    "allowance": 243.92
+  },
+  {
+    "range": [
+      22752,
+      22799.99
+    ],
+    "interval": 48,
+    "gis": 242.92,
+    "allowance": 242.92
+  },
+  {
+    "range": [
+      22800,
+      22847.99
+    ],
+    "interval": 48,
+    "gis": 241.92,
+    "allowance": 241.92
+  },
+  {
+    "range": [
+      22848,
+      22895.99
+    ],
+    "interval": 48,
+    "gis": 240.92,
+    "allowance": 240.92
+  },
+  {
+    "range": [
+      22896,
+      22943.99
+    ],
+    "interval": 48,
+    "gis": 239.92,
+    "allowance": 239.92
+  },
+  {
+    "range": [
+      22944,
+      22991.99
+    ],
+    "interval": 48,
+    "gis": 238.92,
+    "allowance": 238.92
+  },
+  {
+    "range": [
+      22992,
+      23039.99
+    ],
+    "interval": 48,
+    "gis": 237.92,
+    "allowance": 237.92
+  },
+  {
+    "range": [
+      23040,
+      23087.99
+    ],
+    "interval": 48,
+    "gis": 236.92,
+    "allowance": 236.92
+  },
+  {
+    "range": [
+      23088,
+      23135.99
+    ],
+    "interval": 48,
+    "gis": 235.92,
+    "allowance": 235.92
+  },
+  {
+    "range": [
+      23136,
+      23183.99
+    ],
+    "interval": 48,
+    "gis": 234.92,
+    "allowance": 234.92
+  },
+  {
+    "range": [
+      23184,
+      23231.99
+    ],
+    "interval": 48,
+    "gis": 233.92,
+    "allowance": 233.92
+  },
+  {
+    "range": [
+      23232,
+      23279.99
+    ],
+    "interval": 48,
+    "gis": 232.92,
+    "allowance": 232.92
+  },
+  {
+    "range": [
+      23280,
+      23327.99
+    ],
+    "interval": 48,
+    "gis": 231.92,
+    "allowance": 231.92
+  },
+  {
+    "range": [
+      23328,
+      23375.99
+    ],
+    "interval": 48,
+    "gis": 230.92,
+    "allowance": 230.92
+  },
+  {
+    "range": [
+      23376,
+      23423.99
+    ],
+    "interval": 48,
+    "gis": 229.92,
+    "allowance": 229.92
+  },
+  {
+    "range": [
+      23424,
+      23471.99
+    ],
+    "interval": 48,
+    "gis": 228.92,
+    "allowance": 228.92
+  },
+  {
+    "range": [
+      23472,
+      23519.99
+    ],
+    "interval": 48,
+    "gis": 227.92,
+    "allowance": 227.92
+  },
+  {
+    "range": [
+      23520,
+      23567.99
+    ],
+    "interval": 48,
+    "gis": 226.92,
+    "allowance": 226.92
+  },
+  {
+    "range": [
+      23568,
+      23615.99
+    ],
+    "interval": 48,
+    "gis": 225.92,
+    "allowance": 225.92
+  },
+  {
+    "range": [
+      23616,
+      23663.99
+    ],
+    "interval": 48,
+    "gis": 224.92,
+    "allowance": 224.92
+  },
+  {
+    "range": [
+      23664,
+      23711.99
+    ],
+    "interval": 48,
+    "gis": 223.92,
+    "allowance": 223.92
+  },
+  {
+    "range": [
+      23712,
+      23759.99
+    ],
+    "interval": 48,
+    "gis": 222.92,
+    "allowance": 222.92
+  },
+  {
+    "range": [
+      23760,
+      23807.99
+    ],
+    "interval": 48,
+    "gis": 221.92,
+    "allowance": 221.92
+  },
+  {
+    "range": [
+      23808,
+      23855.99
+    ],
+    "interval": 48,
+    "gis": 220.92,
+    "allowance": 220.92
+  },
+  {
+    "range": [
+      23856,
+      23903.99
+    ],
+    "interval": 48,
+    "gis": 219.92,
+    "allowance": 219.92
+  },
+  {
+    "range": [
+      23904,
+      23951.99
+    ],
+    "interval": 48,
+    "gis": 218.92,
+    "allowance": 218.92
+  },
+  {
+    "range": [
+      23952,
+      23999.99
+    ],
+    "interval": 48,
+    "gis": 217.92,
+    "allowance": 217.92
+  },
+  {
+    "range": [
+      24000,
+      24047.99
+    ],
+    "interval": 48,
+    "gis": 216.92,
+    "allowance": 216.92
+  },
+  {
+    "range": [
+      24048,
+      24095.99
+    ],
+    "interval": 48,
+    "gis": 215.92,
+    "allowance": 215.92
+  },
+  {
+    "range": [
+      24096,
+      24143.99
+    ],
+    "interval": 48,
+    "gis": 214.92,
+    "allowance": 214.92
+  },
+  {
+    "range": [
+      24144,
+      24191.99
+    ],
+    "interval": 48,
+    "gis": 213.92,
+    "allowance": 213.92
+  },
+  {
+    "range": [
+      24192,
+      24239.99
+    ],
+    "interval": 48,
+    "gis": 212.92,
+    "allowance": 212.92
+  },
+  {
+    "range": [
+      24240,
+      24287.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 211.92
+  },
+  {
+    "range": [
+      24288,
+      24335.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 210.92
+  },
+  {
+    "range": [
+      24336,
+      24383.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 209.92
+  },
+  {
+    "range": [
+      24384,
+      24431.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 208.92
+  },
+  {
+    "range": [
+      24432,
+      24479.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 207.92
+  },
+  {
+    "range": [
+      24480,
+      24527.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 206.92
+  },
+  {
+    "range": [
+      24528,
+      24575.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 205.92
+  },
+  {
+    "range": [
+      24576,
+      24623.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 204.92
+  },
+  {
+    "range": [
+      24624,
+      24671.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 203.92
+  },
+  {
+    "range": [
+      24672,
+      24719.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 202.92
+  },
+  {
+    "range": [
+      24720,
+      24767.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 201.92
+  },
+  {
+    "range": [
+      24768,
+      24815.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 200.92
+  },
+  {
+    "range": [
+      24816,
+      24863.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 199.92
+  },
+  {
+    "range": [
+      24864,
+      24911.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 198.92
+  },
+  {
+    "range": [
+      24912,
+      24959.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 197.92
+  },
+  {
+    "range": [
+      24960,
+      25007.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 196.92
+  },
+  {
+    "range": [
+      25008,
+      25055.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 195.92
+  },
+  {
+    "range": [
+      25056,
+      25103.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 194.92
+  },
+  {
+    "range": [
+      25104,
+      25151.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 193.92
+  },
+  {
+    "range": [
+      25152,
+      25199.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 192.92
+  },
+  {
+    "range": [
+      25200,
+      25247.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 191.92
+  },
+  {
+    "range": [
+      25248,
+      25295.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 190.92
+  },
+  {
+    "range": [
+      25296,
+      25343.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 189.92
+  },
+  {
+    "range": [
+      25344,
+      25391.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 188.92
+  },
+  {
+    "range": [
+      25392,
+      25439.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 187.92
+  },
+  {
+    "range": [
+      25440,
+      25487.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 186.92
+  },
+  {
+    "range": [
+      25488,
+      25535.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 185.92
+  },
+  {
+    "range": [
+      25536,
+      25583.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 184.92
+  },
+  {
+    "range": [
+      25584,
+      25631.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 183.92
+  },
+  {
+    "range": [
+      25632,
+      25679.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 182.92
+  },
+  {
+    "range": [
+      25680,
+      25727.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 181.92
+  },
+  {
+    "range": [
+      25728,
+      25775.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 180.92
+  },
+  {
+    "range": [
+      25776,
+      25823.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 179.92
+  },
+  {
+    "range": [
+      25824,
+      25871.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 178.92
+  },
+  {
+    "range": [
+      25872,
+      25919.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 177.92
+  },
+  {
+    "range": [
+      25920,
+      25967.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 176.92
+  },
+  {
+    "range": [
+      25968,
+      26015.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 175.92
+  },
+  {
+    "range": [
+      26016,
+      26063.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 174.92
+  },
+  {
+    "range": [
+      26064,
+      26111.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 173.92
+  },
+  {
+    "range": [
+      26112,
+      26159.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 172.92
+  },
+  {
+    "range": [
+      26160,
+      26207.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 171.92
+  },
+  {
+    "range": [
+      26208,
+      26255.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 170.92
+  },
+  {
+    "range": [
+      26256,
+      26303.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 169.92
+  },
+  {
+    "range": [
+      26304,
+      26351.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 168.92
+  },
+  {
+    "range": [
+      26352,
+      26399.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 167.92
+  },
+  {
+    "range": [
+      26400,
+      26447.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 166.92
+  },
+  {
+    "range": [
+      26448,
+      26495.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 165.92
+  },
+  {
+    "range": [
+      26496,
+      26543.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 164.92
+  },
+  {
+    "range": [
+      26544,
+      26591.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 163.92
+  },
+  {
+    "range": [
+      26592,
+      26639.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 162.92
+  },
+  {
+    "range": [
+      26640,
+      26687.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 161.92
+  },
+  {
+    "range": [
+      26688,
+      26735.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 160.92
+  },
+  {
+    "range": [
+      26736,
+      26783.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 159.92
+  },
+  {
+    "range": [
+      26784,
+      26831.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 158.92
+  },
+  {
+    "range": [
+      26832,
+      26879.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 157.92
+  },
+  {
+    "range": [
+      26880,
+      26927.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 156.92
+  },
+  {
+    "range": [
+      26928,
+      26975.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 155.92
+  },
+  {
+    "range": [
+      26976,
+      27023.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 154.92
+  },
+  {
+    "range": [
+      27024,
+      27071.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 153.92
+  },
+  {
+    "range": [
+      27072,
+      27119.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 152.92
+  },
+  {
+    "range": [
+      27120,
+      27167.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 151.92
+  },
+  {
+    "range": [
+      27168,
+      27215.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 150.92
+  },
+  {
+    "range": [
+      27216,
+      27263.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 149.92
+  },
+  {
+    "range": [
+      27264,
+      27311.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 148.92
+  },
+  {
+    "range": [
+      27312,
+      27359.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 147.92
+  },
+  {
+    "range": [
+      27360,
+      27407.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 146.92
+  },
+  {
+    "range": [
+      27408,
+      27455.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 145.92
+  },
+  {
+    "range": [
+      27456,
+      27503.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 144.92
+  },
+  {
+    "range": [
+      27504,
+      27551.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 143.92
+  },
+  {
+    "range": [
+      27552,
+      27599.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 142.92
+  },
+  {
+    "range": [
+      27600,
+      27647.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 141.92
+  },
+  {
+    "range": [
+      27648,
+      27695.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 140.92
+  },
+  {
+    "range": [
+      27696,
+      27743.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 139.92
+  },
+  {
+    "range": [
+      27744,
+      27791.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 138.92
+  },
+  {
+    "range": [
+      27792,
+      27839.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 137.92
+  },
+  {
+    "range": [
+      27840,
+      27887.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 136.92
+  },
+  {
+    "range": [
+      27888,
+      27935.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 135.92
+  },
+  {
+    "range": [
+      27936,
+      27983.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 134.92
+  },
+  {
+    "range": [
+      27984,
+      28031.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 133.92
+  },
+  {
+    "range": [
+      28032,
+      28079.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 132.92
+  },
+  {
+    "range": [
+      28080,
+      28127.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 131.92
+  },
+  {
+    "range": [
+      28128,
+      28175.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 130.92
+  },
+  {
+    "range": [
+      28176,
+      28223.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 129.92
+  },
+  {
+    "range": [
+      28224,
+      28271.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 128.92
+  },
+  {
+    "range": [
+      28272,
+      28319.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 127.92
+  },
+  {
+    "range": [
+      28320,
+      28367.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 126.92
+  },
+  {
+    "range": [
+      28368,
+      28415.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 125.92
+  },
+  {
+    "range": [
+      28416,
+      28463.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 124.92
+  },
+  {
+    "range": [
+      28464,
+      28511.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 123.92
+  },
+  {
+    "range": [
+      28512,
+      28559.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 122.92
+  },
+  {
+    "range": [
+      28560,
+      28607.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 121.92
+  },
+  {
+    "range": [
+      28608,
+      28655.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 120.92
+  },
+  {
+    "range": [
+      28656,
+      28703.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 119.92
+  },
+  {
+    "range": [
+      28704,
+      28751.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 118.92
+  },
+  {
+    "range": [
+      28752,
+      28799.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 117.92
+  },
+  {
+    "range": [
+      28800,
+      28847.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 116.92
+  },
+  {
+    "range": [
+      28848,
+      28895.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 115.92
+  },
+  {
+    "range": [
+      28896,
+      28943.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 114.92
+  },
+  {
+    "range": [
+      28944,
+      28991.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 113.92
+  },
+  {
+    "range": [
+      28992,
+      29039.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 112.92
+  },
+  {
+    "range": [
+      29040,
+      29087.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 111.92
+  },
+  {
+    "range": [
+      29088,
+      29135.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 110.92
+  },
+  {
+    "range": [
+      29136,
+      29183.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 109.92
+  },
+  {
+    "range": [
+      29184,
+      29231.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 108.92
+  },
+  {
+    "range": [
+      29232,
+      29279.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 107.92
+  },
+  {
+    "range": [
+      29280,
+      29327.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 106.92
+  },
+  {
+    "range": [
+      29328,
+      29375.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 105.92
+  },
+  {
+    "range": [
+      29376,
+      29423.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 104.92
+  },
+  {
+    "range": [
+      29424,
+      29471.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 103.92
+  },
+  {
+    "range": [
+      29472,
+      29519.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 102.92
+  },
+  {
+    "range": [
+      29520,
+      29567.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 101.92
+  },
+  {
+    "range": [
+      29568,
+      29615.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 100.92
+  },
+  {
+    "range": [
+      29616,
+      29663.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 99.92
+  },
+  {
+    "range": [
+      29664,
+      29711.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 98.92
+  },
+  {
+    "range": [
+      29712,
+      29759.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 97.92
+  },
+  {
+    "range": [
+      29760,
+      29807.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 96.92
+  },
+  {
+    "range": [
+      29808,
+      29855.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 95.92
+  },
+  {
+    "range": [
+      29856,
+      29903.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 94.92
+  },
+  {
+    "range": [
+      29904,
+      29951.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 93.92
+  },
+  {
+    "range": [
+      29952,
+      29999.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 92.92
+  },
+  {
+    "range": [
+      30000,
+      30047.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 91.92
+  },
+  {
+    "range": [
+      30048,
+      30095.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 90.92
+  },
+  {
+    "range": [
+      30096,
+      30143.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 89.92
+  },
+  {
+    "range": [
+      30144,
+      30191.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 88.92
+  },
+  {
+    "range": [
+      30192,
+      30239.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 87.92
+  },
+  {
+    "range": [
+      30240,
+      30287.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 86.92
+  },
+  {
+    "range": [
+      30288,
+      30335.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 85.92
+  },
+  {
+    "range": [
+      30336,
+      30383.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 84.92
+  },
+  {
+    "range": [
+      30384,
+      30431.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 83.92
+  },
+  {
+    "range": [
+      30432,
+      30479.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 82.92
+  },
+  {
+    "range": [
+      30480,
+      30527.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 81.92
+  },
+  {
+    "range": [
+      30528,
+      30575.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 80.92
+  },
+  {
+    "range": [
+      30576,
+      30623.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 79.92
+  },
+  {
+    "range": [
+      30624,
+      30671.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 78.92
+  },
+  {
+    "range": [
+      30672,
+      30719.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 77.92
+  },
+  {
+    "range": [
+      30720,
+      30767.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 76.92
+  },
+  {
+    "range": [
+      30768,
+      30815.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 75.92
+  },
+  {
+    "range": [
+      30816,
+      30863.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 74.92
+  },
+  {
+    "range": [
+      30864,
+      30911.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 73.92
+  },
+  {
+    "range": [
+      30912,
+      30959.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 72.92
+  },
+  {
+    "range": [
+      30960,
+      31007.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 71.92
+  },
+  {
+    "range": [
+      31008,
+      31055.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 70.92
+  },
+  {
+    "range": [
+      31056,
+      31103.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 69.92
+  },
+  {
+    "range": [
+      31104,
+      31151.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 68.92
+  },
+  {
+    "range": [
+      31152,
+      31199.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 67.92
+  },
+  {
+    "range": [
+      31200,
+      31247.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 66.92
+  },
+  {
+    "range": [
+      31248,
+      31295.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 65.92
+  },
+  {
+    "range": [
+      31296,
+      31343.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 64.92
+  },
+  {
+    "range": [
+      31344,
+      31391.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 63.92
+  },
+  {
+    "range": [
+      31392,
+      31439.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 62.92
+  },
+  {
+    "range": [
+      31440,
+      31487.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 61.92
+  },
+  {
+    "range": [
+      31488,
+      31535.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 60.92
+  },
+  {
+    "range": [
+      31536,
+      31583.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 59.92
+  },
+  {
+    "range": [
+      31584,
+      31631.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 58.92
+  },
+  {
+    "range": [
+      31632,
+      31679.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 57.92
+  },
+  {
+    "range": [
+      31680,
+      31727.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 56.92
+  },
+  {
+    "range": [
+      31728,
+      31775.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 55.92
+  },
+  {
+    "range": [
+      31776,
+      31823.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 54.92
+  },
+  {
+    "range": [
+      31824,
+      31871.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 53.92
+  },
+  {
+    "range": [
+      31872,
+      31919.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 52.92
+  },
+  {
+    "range": [
+      31920,
+      31967.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 51.92
+  },
+  {
+    "range": [
+      31968,
+      32015.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 50.92
+  },
+  {
+    "range": [
+      32016,
+      32063.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 49.92
+  },
+  {
+    "range": [
+      32064,
+      32111.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 48.92
+  },
+  {
+    "range": [
+      32112,
+      32159.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 47.92
+  },
+  {
+    "range": [
+      32160,
+      32207.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 46.92
+  },
+  {
+    "range": [
+      32208,
+      32255.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 45.92
+  },
+  {
+    "range": [
+      32256,
+      32303.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 44.92
+  },
+  {
+    "range": [
+      32304,
+      32351.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 43.92
+  },
+  {
+    "range": [
+      32352,
+      32399.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 42.92
+  },
+  {
+    "range": [
+      32400,
+      32447.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 41.92
+  },
+  {
+    "range": [
+      32448,
+      32495.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 40.92
+  },
+  {
+    "range": [
+      32496,
+      32543.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 39.92
+  },
+  {
+    "range": [
+      32544,
+      32591.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 38.92
+  },
+  {
+    "range": [
+      32592,
+      32639.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 37.92
+  },
+  {
+    "range": [
+      32640,
+      32687.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 36.92
+  },
+  {
+    "range": [
+      32688,
+      32735.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 35.92
+  },
+  {
+    "range": [
+      32736,
+      32783.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 34.92
+  },
+  {
+    "range": [
+      32784,
+      32831.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 33.92
+  },
+  {
+    "range": [
+      32832,
+      32879.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 32.92
+  },
+  {
+    "range": [
+      32880,
+      32927.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 31.92
+  },
+  {
+    "range": [
+      32928,
+      32975.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 30.92
+  },
+  {
+    "range": [
+      32976,
+      33023.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 29.92
+  },
+  {
+    "range": [
+      33024,
+      33071.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 28.92
+  },
+  {
+    "range": [
+      33072,
+      33119.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 27.92
+  },
+  {
+    "range": [
+      33120,
+      33167.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 26.92
+  },
+  {
+    "range": [
+      33168,
+      33215.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 25.92
+  },
+  {
+    "range": [
+      33216,
+      33263.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 24.92
+  },
+  {
+    "range": [
+      33264,
+      33311.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 23.92
+  },
+  {
+    "range": [
+      33312,
+      33359.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 22.92
+  },
+  {
+    "range": [
+      33360,
+      33407.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 21.92
+  },
+  {
+    "range": [
+      33408,
+      33455.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 20.92
+  },
+  {
+    "range": [
+      33456,
+      33503.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 19.92
+  },
+  {
+    "range": [
+      33504,
+      33551.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 18.92
+  },
+  {
+    "range": [
+      33552,
+      33599.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 17.92
+  },
+  {
+    "range": [
+      33600,
+      33647.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 16.92
+  },
+  {
+    "range": [
+      33648,
+      33695.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 15.92
+  },
+  {
+    "range": [
+      33696,
+      33743.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 14.92
+  },
+  {
+    "range": [
+      33744,
+      33791.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 13.92
+  },
+  {
+    "range": [
+      33792,
+      33839.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 12.92
+  },
+  {
+    "range": [
+      33840,
+      33887.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 11.92
+  },
+  {
+    "range": [
+      33888,
+      33935.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 10.92
+  },
+  {
+    "range": [
+      33936,
+      33983.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 9.92
+  },
+  {
+    "range": [
+      33984,
+      34031.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 8.92
+  },
+  {
+    "range": [
+      34032,
+      34079.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 7.92
+  },
+  {
+    "range": [
+      34080,
+      34127.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 6.92
+  },
+  {
+    "range": [
+      34128,
+      34175.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 5.92
+  },
+  {
+    "range": [
+      34176,
+      34223.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 4.92
+  },
+  {
+    "range": [
+      34224,
+      34271.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 3.92
+  },
+  {
+    "range": [
+      34272,
+      34319.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 2.92
+  },
+  {
+    "range": [
+      34320,
+      34367.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 1.92
+  },
+  {
+    "range": [
+      34368,
+      34415.99
+    ],
+    "interval": 48,
+    "gis": 212.29,
+    "allowance": 0.92
+  }
+]

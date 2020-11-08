@@ -7,7 +7,7 @@ import Constants from "./Constants";
 import Calculations from "./Calculations";
 
 import { receivableOas } from "./services/oasCalculator";
-import { receivableGis } from "./services/singleGisLookup";
+import { single as receivableGis } from "./services/gisLookup";
 
 class SingleSituation extends Component {
   constructor(props) {

@@ -1,16 +1,16 @@
-// GIS for a couple where
-// * One qualifies for GIS
-// * The other does NOT, and does NOT receive Allowance
+// GIS for a couple where:
+// * One is qualified for GIS
+// * The other is between 60-64 -> receives allowance
 //
-// table 3-1 -> table 3-51
+// table 4-1 -> table 4-43
 //
-// Finally, it will write it into a JSON file called coupleWithSolitaryOas-TIMESTAMP.json
+// Finally, it will write it into a JSON file called coupleWithAllowance-TIMESTAMP.json
 //
 
 import https from 'https';
 import jsdom, { JSDOM } from 'jsdom';
 
-const tableUrl = (pageNo) => "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab3-" + pageNo + ".html";
+const tableUrl = (pageNo) => "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments/tab4-" + pageNo + ".html";
 
 const fetchPage = (url) => new Promise((resolve, reject) => {
   https.get(url, (resp) => {
@@ -57,6 +57,13 @@ const getGis = (row) => {
   return parseFloat(gisStr)
 }
 
+const getAllowance = (row) => {
+  let allowanceStr = row.children[3].textContent;
+  allowanceStr = allowanceStr.replace(/\$\s?|(,*)/g, '')
+
+  return parseFloat(allowanceStr)
+}
+
 const intervalExtractor = (row) => {
   let incomeRangeStr = row.children[0].textContent;
 
@@ -75,7 +82,8 @@ const dataExtractor = (row) => {
   return {
     range: getIncomeRange(incomeRangeStr),
     interval: getIncomeInterval(incomeRangeStr),
-    gis: getGis(row)
+    gis: getGis(row),
+    allowance: getAllowance(row)
   }
 }
 
@@ -105,7 +113,7 @@ const main = async () => {
 
   let tableData = []
 
-  for(let i = 1; i < 52; i++) {
+  for(let i = 1; i < 44; i++) {
     let pageUrl = tableUrl(i)
 
     let page = await fetchPage(pageUrl)
@@ -122,7 +130,7 @@ const main = async () => {
   let jsonStr = JSON.stringify(tableData, null, 2); // spacing level = 2
 
   const fs = require('fs');
-  let filename = 'coupleWithSolitaryOas-' + (new Date()).toISOString() + '.json';
+  let filename = 'coupleWithAllowance-' + (new Date()).toISOString() + '.json';
   fs.writeFileSync(filename, jsonStr)
 }
 
