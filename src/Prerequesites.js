@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import 'antd/dist/antd.css';
-import { Card, Checkbox } from "antd";
+import { Alert, Card, Checkbox } from "antd";
 
 
 const options = [
@@ -10,19 +10,30 @@ const options = [
 ];
 
 class Prerequesites extends Component {
+  constructor(props) {
+    super(props)
+
+    this.state = { isQualified: false }
+  }
 
   onChange = (selectedOpts) => {
     if(selectedOpts.length === 3) {
-      this.props.onQualify(true);
+      this.setState({ isQualified: true })
     } else {
-      this.props.onQualify(false);
+      this.setState({ isQualified: false })
     }
   }
 
   render() {
 
+    const alert = <Alert
+      type="warning"
+      description="Warning: you must meet below pre-requesites to qualify"
+    />
+
     return(
       <Card title="Prerequesites to OAS/GIS qualification">
+        { this.state.isQualified ? null : alert }
         <Checkbox.Group
           options={options}
           defaultValue={[]}
