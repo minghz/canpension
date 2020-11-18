@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/canpension/static/css/main.fccc3356.chunk.css",
-    "main.js": "/canpension/static/js/main.65917598.chunk.js",
-    "main.js.map": "/canpension/static/js/main.65917598.chunk.js.map",
+    "main.js": "/canpension/static/js/main.e410660d.chunk.js",
+    "main.js.map": "/canpension/static/js/main.e410660d.chunk.js.map",
     "runtime-main.js": "/canpension/static/js/runtime-main.53710f82.js",
     "runtime-main.js.map": "/canpension/static/js/runtime-main.53710f82.js.map",
     "static/css/2.00a338ba.chunk.css": "/canpension/static/css/2.00a338ba.chunk.css",
     "static/js/2.de707073.chunk.js": "/canpension/static/js/2.de707073.chunk.js",
     "static/js/2.de707073.chunk.js.map": "/canpension/static/js/2.de707073.chunk.js.map",
     "index.html": "/canpension/index.html",
-    "precache-manifest.b565ea7102f9cd97d28a4becf8dacffc.js": "/canpension/precache-manifest.b565ea7102f9cd97d28a4becf8dacffc.js",
+    "precache-manifest.dc9bea8264ef5ae1725f53bb0d9ff00c.js": "/canpension/precache-manifest.dc9bea8264ef5ae1725f53bb0d9ff00c.js",
     "service-worker.js": "/canpension/service-worker.js",
     "static/css/2.00a338ba.chunk.css.map": "/canpension/static/css/2.00a338ba.chunk.css.map",
     "static/css/main.fccc3356.chunk.css.map": "/canpension/static/css/main.fccc3356.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.00a338ba.chunk.css",
     "static/js/2.de707073.chunk.js",
     "static/css/main.fccc3356.chunk.css",
-    "static/js/main.65917598.chunk.js"
+    "static/js/main.e410660d.chunk.js"
   ]
 }
