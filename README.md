@@ -1,5 +1,7 @@
 # Canpension
 
+Accessible through https://minghz.github.io/canpension/
+
 Calculator for OAS/GIS
 
 The goal of this website is to bring transparency and simplicity into obtaining the OAS and GIS amounts for Canadian Pensioners.
@@ -14,5 +16,4 @@ This website is not sponsored by the Canadian government. The calculations here 
 
 # Deployment
 `yarn deploy` aided by `gh-pages` package - needs special permissions
-Accessible through https://minghz.github.io/canpension/
 
