@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a75253b11896b1f5e00257f2d7f48d9b",
+    "revision": "d43a43618d19cee1e347c5179c248c85",
     "url": "/canpension/index.html"
   },
   {
-    "revision": "a10f45f1546287b0a2ce",
+    "revision": "6f3ef9c6f4e74f9f9cf8",
     "url": "/canpension/static/css/2.00a338ba.chunk.css"
   },
   {
-    "revision": "c8e918e232b7b9bee1ac",
+    "revision": "bfc285f7540a3a937af9",
     "url": "/canpension/static/css/main.fccc3356.chunk.css"
   },
   {
-    "revision": "a10f45f1546287b0a2ce",
-    "url": "/canpension/static/js/2.0fd21f93.chunk.js"
+    "revision": "6f3ef9c6f4e74f9f9cf8",
+    "url": "/canpension/static/js/2.40265056.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/canpension/static/js/2.0fd21f93.chunk.js.LICENSE.txt"
+    "url": "/canpension/static/js/2.40265056.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8e918e232b7b9bee1ac",
-    "url": "/canpension/static/js/main.ca967b08.chunk.js"
+    "revision": "bfc285f7540a3a937af9",
+    "url": "/canpension/static/js/main.9873d60f.chunk.js"
   },
   {
     "revision": "cac59072c99b7251ca57",
