@@ -11,19 +11,17 @@ import References from "./References";
 import SingleSituation from "./SingleSituation";
 import CoupleSituation from "./CoupleSituation";
 
-
 const trackingId = "G-8MCQ9VK0VW";
 
 const { Panel } = Collapse;
 
 class App extends Component {
 
-  componentDidMount() {
+  render() {
+
     ReactGA.initialize(trackingId);
     ReactGA.pageview(window.location.pathname + window.location.search);
-  }
 
-  render() {
     return (
       <div className="mainContainer">
         <h1>Old Age Security (OAS) &<br />Guaranteed Income Supplement (GIS) calculator</h1>
