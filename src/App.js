@@ -41,6 +41,7 @@ class App extends Component {
 
           <p></p>
           <p>This website is not sponsored by the Canadian government. The calculations here serve as reference only, with data taken from the official Government of Canada websites. Reference links can be found on this site for further context.</p>
+          <p>For more on how this was built, <a href="https://medium.com/@minghz42/building-a-canadian-oas-gis-calculator-efe96ddea714">see this article</a></p>
           <p>Found a mistake? Have a suggestion? Tweet at the author <a href="https://twitter.com/minghz42" target="_blank" rel="noopener noreferrer"><TwitterOutlined /></a></p>
           <p>Want to help improve the site? Suggest a fix <a href="https://github.com/minghz/canpension" target="_blank" rel="noopener noreferrer"><GithubOutlined /></a></p>
           <p>If you really liked this calculator, consider a small donation.</p>
