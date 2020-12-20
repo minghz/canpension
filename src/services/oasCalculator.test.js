@@ -28,14 +28,22 @@ test('lived in Canada 10 years', () => {
   expect(oas).toBe(250);
 });
 
-test('lived in Canada 10 years', () => {
+test('lived in Canada 34 years', () => {
   const oas = receivableOas(34, 1000, 0)
   expect(oas).toBe(850);
 });
 
-const MAX_ANNUAL_INCOME = 12814900
+const CLAWBACK_THRESHOLD = 7758000 // yearly income threshold for 2019 https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments.html
+
+test('clawback part of OAS', () => {
+  const oas = receivableOas(40, 61414, 9000000)
+  expect(oas).toBe(61414 - 186300/12);
+});
 
 test('annual income surpases upper limit', () => {
-  const oas = receivableOas(34, 1000, MAX_ANNUAL_INCOME + 1)
+  let max_annual_income = 61414 * 12 / 0.15 + CLAWBACK_THRESHOLD
+
+  const oas = receivableOas(34, 1000, max_annual_income + 1)
   expect(oas).toBe(0);
 });
+
