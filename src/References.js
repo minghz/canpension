@@ -6,7 +6,8 @@ import {
   SINGLE_TABLE_URL,
   COUPLE_OAS_TABLE_URL,
   COUPLE_SOLITARY_OAS_TABLE_URL,
-  OAS_QUALIFICATION_URL
+  OAS_QUALIFICATION_URL,
+  OAS_RETURN_URL
 } from "./constants/urls"
 
 function References(props) {
@@ -37,6 +38,13 @@ function References(props) {
         <Col span={24}>
           <a href={OAS_QUALIFICATION_URL} target="_blank" rel="noopener noreferrer">
             [4] OAS Qualification requirements
+          </a>
+        </Col>
+      </Row>
+      <Row>
+        <Col span={24}>
+          <a href={OAS_RETURN_URL} target="_blank" rel="noopener noreferrer">
+            [5] OAS Returns for high world income earners
           </a>
         </Col>
       </Row>
