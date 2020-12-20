@@ -12,6 +12,10 @@ function Constants(props) {
         <Col span={8} className="bold">{fmtCents(props.data.maxOas)} /mo</Col>
       </Row>
       <Row>
+        <Col span={16}> OAS Return Threshold</Col>
+        <Col span={8} className="bold">{fmtCents(props.data.oasReturnThreshold)} /mo</Col>
+      </Row>
+      <Row>
         <Col span={16}>Default GIS (when receiving full OAS)</Col>
         <Col span={8} className="bold">{fmtCents(props.data.defaultGis)} /mo</Col>
       </Row>

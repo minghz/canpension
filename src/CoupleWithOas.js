@@ -17,6 +17,7 @@ class CoupleWithOas extends Component {
     this.state = {
       constants: {
         maxOas: 61414,
+        oasReturnThreshold: 7758000, // as of 2019
         defaultGis: 55218,
         standardIncome: 116632
       },

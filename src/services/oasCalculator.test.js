@@ -35,7 +35,7 @@ test('lived in Canada 34 years', () => {
 
 const CLAWBACK_THRESHOLD = 7758000 // yearly income threshold for 2019 https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments.html
 
-test('clawback part of OAS', () => {
+test('return part of OAS', () => {
   const oas = receivableOas(40, 61414, 9000000)
   expect(oas).toBe(61414 - 186300/12);
 });
